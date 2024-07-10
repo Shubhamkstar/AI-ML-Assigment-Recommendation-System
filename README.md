@@ -31,6 +31,22 @@ This project aims to create a self-adaptive movie recommendation system that dyn
    ```python
    data = pd.read_csv('path/to/main_data.csv')
    ```
+   ```markdown
+## Dataset
+
+This project uses the [Movie Dataset from Kaggle](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset). Please download and unzip the dataset into your project directory. After unzipping, the dataset should have the following structure:
+
+```
+/path/to/your/project/The_Movie_Dataset/credits.csv
+/path/to/your/project/The_Movie_Dataset/keywords.csv
+/path/to/your/project/The_Movie_Dataset/links.csv
+/path/to/your/project/The_Movie_Dataset/links_small.csv
+/path/to/your/project/The_Movie_Dataset/movies_metadata.csv
+/path/to/your/project/The_Movie_Dataset/ratings.csv
+/path/to/your/project/The_Movie_Dataset/ratings_small.csv
+```
+
+Ensure that the paths to these files are correctly set in your project to enable proper data loading and processing.
 
 3. Run the baseline recommendation system:
    ```bash
