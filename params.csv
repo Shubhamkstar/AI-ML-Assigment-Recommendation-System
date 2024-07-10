@@ -1,0 +1,10 @@
+parameter,value
+alpha,"[0.01, 0.1, 1]"
+gamma,"[0.1, 0.5, 0.9]"
+num_recommendations,10
+imdb_rating_threshold,5
+diversity,2
+avg_watch_percentage,86.4
+avg_rating,8.8
+avg_movies_per_session,1.0
+no_movie_picked_sessions,0

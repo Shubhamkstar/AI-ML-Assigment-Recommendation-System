@@ -1,0 +1,5 @@
+parameter,value
+num_recommendations,10
+imdb_rating_threshold,5
+diversity,2
+num_recommendation_rounds,2

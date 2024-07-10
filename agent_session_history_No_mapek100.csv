@@ -1,0 +1,214 @@
+session,initial_movie,picked_movie,genre,rating,timestamp,watch_percentage,position
+1,The Dark Knight,batman begins,Action Adventure,10,2024-07-10 22:38:35.927892,87,1
+1,The Dark Knight,the dark knight,Action Crime Drama Thriller,9,2024-07-10 22:38:35.933571,90,1
+3,Inception,the dark knight rises,Action Thriller,10,2024-07-10 22:38:37.967067,96,1
+3,Inception,inception,Action Adventure Sci-Fi Thriller,6,2024-07-10 22:38:37.978336,62,1
+4,The Dark Knight,batman begins,Action Adventure,1,2024-07-10 22:38:39.005554,44,1
+4,The Dark Knight,the dark knight,Action Crime Drama Thriller,5,2024-07-10 22:38:39.015037,63,1
+5,Fight Club,the curious case of benjamin button,Drama Fantasy Romance,4,2024-07-10 22:38:40.037175,26,1
+5,Fight Club,legends of the fall,Drama Romance War Western,7,2024-07-10 22:38:40.045487,68,1
+6,The Dark Knight,batman begins,Action Adventure,4,2024-07-10 22:38:41.071707,17,1
+6,The Dark Knight,the dark knight,Action Crime Drama Thriller,5,2024-07-10 22:38:41.081937,78,1
+7,The Dark Knight,batman begins,Action Adventure,7,2024-07-10 22:38:42.104973,80,1
+7,The Dark Knight,the dark knight,Action Crime Drama Thriller,9,2024-07-10 22:38:42.113745,80,1
+8,Pulp Fiction,reservoir dogs,Crime Drama Thriller,9,2024-07-10 22:38:43.139701,90,1
+8,Pulp Fiction,desperado,Action Crime Thriller,10,2024-07-10 22:38:43.149438,83,1
+8,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,10,2024-07-10 22:38:43.159777,93,1
+9,Fight Club,the curious case of benjamin button,Drama Fantasy Romance,1,2024-07-10 22:38:44.183786,18,1
+9,Fight Club,legends of the fall,Drama Romance War Western,5,2024-07-10 22:38:44.193464,77,1
+10,The Dark Knight,batman begins,Action Adventure,7,2024-07-10 22:38:45.217032,73,1
+10,The Dark Knight,the dark knight,Action Crime Drama Thriller,3,2024-07-10 22:38:45.226694,30,1
+11,Inception,the dark knight rises,Action Thriller,7,2024-07-10 22:38:46.249513,64,1
+12,Fight Club,the curious case of benjamin button,Drama Fantasy Romance,9,2024-07-10 22:38:47.279149,93,1
+12,Fight Club,legends of the fall,Drama Romance War Western,4,2024-07-10 22:38:47.292594,45,1
+13,Pulp Fiction,reservoir dogs,Crime Drama Thriller,2,2024-07-10 22:38:48.319389,31,1
+14,Inception,the dark knight rises,Action Thriller,10,2024-07-10 22:38:49.342381,84,1
+14,Inception,inception,Action Adventure Sci-Fi Thriller,4,2024-07-10 22:38:49.351522,48,1
+15,The Matrix,the matrix revolutions,Action Sci-Fi,10,2024-07-10 22:38:50.373692,83,1
+15,The Matrix,the matrix reloaded,Action Sci-Fi,6,2024-07-10 22:38:50.383365,70,1
+16,The Matrix,the matrix revolutions,Action Sci-Fi,2,2024-07-10 22:38:51.408260,37,1
+16,The Matrix,the matrix reloaded,Action Sci-Fi,6,2024-07-10 22:38:51.419836,66,1
+17,The Matrix,the matrix revolutions,Action Sci-Fi,7,2024-07-10 22:38:52.449201,71,1
+17,The Matrix,the matrix reloaded,Action Sci-Fi,6,2024-07-10 22:38:52.461037,62,1
+18,Inception,the dark knight rises,Action Thriller,5,2024-07-10 22:38:53.480097,57,1
+18,Inception,inception,Action Adventure Sci-Fi Thriller,10,2024-07-10 22:38:53.485691,83,1
+19,Inception,the dark knight rises,Action Thriller,10,2024-07-10 22:38:54.509396,90,1
+19,Inception,inception,Action Adventure Sci-Fi Thriller,2,2024-07-10 22:38:54.522783,37,1
+20,The Dark Knight,batman begins,Action Adventure,7,2024-07-10 22:38:55.548893,50,1
+20,The Dark Knight,the dark knight,Action Crime Drama Thriller,9,2024-07-10 22:38:55.561664,93,1
+21,The Dark Knight,batman begins,Action Adventure,7,2024-07-10 22:38:56.591042,69,1
+22,Inception,the dark knight rises,Action Thriller,10,2024-07-10 22:38:57.614565,83,1
+22,Inception,inception,Action Adventure Sci-Fi Thriller,2,2024-07-10 22:38:57.626658,24,1
+23,The Matrix,the matrix revolutions,Action Sci-Fi,3,2024-07-10 22:38:58.651683,12,1
+23,The Matrix,the matrix reloaded,Action Sci-Fi,10,2024-07-10 22:38:58.661378,85,1
+24,The Matrix,the matrix revolutions,Action Sci-Fi,10,2024-07-10 22:38:59.687249,83,1
+24,The Matrix,the matrix reloaded,Action Sci-Fi,10,2024-07-10 22:38:59.699566,85,1
+25,The Matrix,the matrix revolutions,Action Sci-Fi,10,2024-07-10 22:39:00.725191,96,1
+25,The Matrix,the matrix reloaded,Action Sci-Fi,10,2024-07-10 22:39:00.737146,90,1
+26,The Matrix,the matrix revolutions,Action Sci-Fi,10,2024-07-10 22:39:01.766249,84,1
+26,The Matrix,the matrix reloaded,Action Sci-Fi,10,2024-07-10 22:39:01.777761,84,1
+27,Fight Club,the curious case of benjamin button,Drama Fantasy Romance,10,2024-07-10 22:39:02.797214,95,1
+27,Fight Club,legends of the fall,Drama Romance War Western,1,2024-07-10 22:39:02.801673,34,1
+28,The Matrix,the matrix revolutions,Action Sci-Fi,10,2024-07-10 22:39:03.820894,96,1
+28,The Matrix,the matrix reloaded,Action Sci-Fi,10,2024-07-10 22:39:03.834651,91,1
+29,Inception,the dark knight rises,Action Thriller,10,2024-07-10 22:39:04.864472,92,1
+29,Inception,inception,Action Adventure Sci-Fi Thriller,5,2024-07-10 22:39:04.882382,50,1
+30,The Dark Knight,batman begins,Action Adventure,7,2024-07-10 22:39:05.913017,51,1
+30,The Dark Knight,the dark knight,Action Crime Drama Thriller,5,2024-07-10 22:39:05.923300,50,1
+31,Pulp Fiction,reservoir dogs,Crime Drama Thriller,5,2024-07-10 22:39:06.944158,58,1
+31,Pulp Fiction,desperado,Action Crime Thriller,7,2024-07-10 22:39:06.954553,50,1
+31,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,7,2024-07-10 22:39:06.963682,55,1
+32,Pulp Fiction,reservoir dogs,Crime Drama Thriller,9,2024-07-10 22:39:07.990834,89,1
+32,Pulp Fiction,desperado,Action Crime Thriller,2,2024-07-10 22:39:08.001674,48,1
+32,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,10,2024-07-10 22:39:08.012401,80,1
+33,The Matrix,the matrix revolutions,Action Sci-Fi,10,2024-07-10 22:39:09.034750,80,1
+33,The Matrix,the matrix reloaded,Action Sci-Fi,10,2024-07-10 22:39:09.047901,84,1
+34,Pulp Fiction,reservoir dogs,Crime Drama Thriller,2,2024-07-10 22:39:10.090073,37,1
+34,Pulp Fiction,desperado,Action Crime Thriller,7,2024-07-10 22:39:10.110235,55,1
+34,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,10,2024-07-10 22:39:10.123110,97,1
+35,The Matrix,the matrix revolutions,Action Sci-Fi,10,2024-07-10 22:39:11.147993,100,1
+35,The Matrix,the matrix reloaded,Action Sci-Fi,10,2024-07-10 22:39:11.156828,94,1
+36,Fight Club,the curious case of benjamin button,Drama Fantasy Romance,3,2024-07-10 22:39:12.179247,22,1
+36,Fight Club,legends of the fall,Drama Romance War Western,4,2024-07-10 22:39:12.188946,39,1
+37,Pulp Fiction,reservoir dogs,Crime Drama Thriller,9,2024-07-10 22:39:13.210537,94,1
+37,Pulp Fiction,desperado,Action Crime Thriller,7,2024-07-10 22:39:13.220994,66,1
+37,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,10,2024-07-10 22:39:13.231157,95,1
+38,Inception,the dark knight rises,Action Thriller,10,2024-07-10 22:39:14.255492,94,1
+38,Inception,inception,Action Adventure Sci-Fi Thriller,2,2024-07-10 22:39:14.265628,38,1
+39,Pulp Fiction,reservoir dogs,Crime Drama Thriller,1,2024-07-10 22:39:15.289321,24,1
+39,Pulp Fiction,desperado,Action Crime Thriller,7,2024-07-10 22:39:15.299201,59,1
+40,Pulp Fiction,reservoir dogs,Crime Drama Thriller,9,2024-07-10 22:39:16.329240,83,1
+40,Pulp Fiction,desperado,Action Crime Thriller,10,2024-07-10 22:39:16.349836,94,1
+40,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,10,2024-07-10 22:39:16.372379,84,1
+41,Pulp Fiction,reservoir dogs,Crime Drama Thriller,9,2024-07-10 22:39:17.410818,91,1
+41,Pulp Fiction,desperado,Action Crime Thriller,10,2024-07-10 22:39:17.423198,86,1
+41,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,10,2024-07-10 22:39:17.435794,94,1
+42,Inception,the dark knight rises,Action Thriller,10,2024-07-10 22:39:18.457312,100,1
+42,Inception,inception,Action Adventure Sci-Fi Thriller,2,2024-07-10 22:39:18.471290,35,1
+43,The Dark Knight,batman begins,Action Adventure,7,2024-07-10 22:39:19.514932,61,1
+43,The Dark Knight,the dark knight,Action Crime Drama Thriller,5,2024-07-10 22:39:19.538487,54,1
+44,Fight Club,the curious case of benjamin button,Drama Fantasy Romance,10,2024-07-10 22:39:20.578596,88,1
+44,Fight Club,legends of the fall,Drama Romance War Western,4,2024-07-10 22:39:20.588119,35,1
+45,The Dark Knight,batman begins,Action Adventure,7,2024-07-10 22:39:21.611563,67,1
+45,The Dark Knight,the dark knight,Action Crime Drama Thriller,5,2024-07-10 22:39:21.621130,56,1
+46,Inception,the dark knight rises,Action Thriller,10,2024-07-10 22:39:22.645456,99,1
+46,Inception,inception,Action Adventure Sci-Fi Thriller,10,2024-07-10 22:39:22.656142,100,1
+47,The Dark Knight,batman begins,Action Adventure,7,2024-07-10 22:39:23.677777,57,1
+47,The Dark Knight,the dark knight,Action Crime Drama Thriller,5,2024-07-10 22:39:23.689075,59,1
+48,Inception,the dark knight rises,Action Thriller,10,2024-07-10 22:39:24.714553,86,1
+48,Inception,inception,Action Adventure Sci-Fi Thriller,10,2024-07-10 22:39:24.724507,89,1
+49,The Dark Knight,batman begins,Action Adventure,7,2024-07-10 22:39:25.749076,71,1
+50,Pulp Fiction,reservoir dogs,Crime Drama Thriller,9,2024-07-10 22:39:26.782202,86,1
+50,Pulp Fiction,desperado,Action Crime Thriller,10,2024-07-10 22:39:26.803461,85,1
+50,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,10,2024-07-10 22:39:26.824785,93,1
+51,Pulp Fiction,reservoir dogs,Crime Drama Thriller,9,2024-07-10 22:39:27.859099,88,1
+51,Pulp Fiction,desperado,Action Crime Thriller,10,2024-07-10 22:39:27.871652,84,1
+51,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,10,2024-07-10 22:39:27.887324,100,1
+52,The Matrix,the matrix revolutions,Action Sci-Fi,10,2024-07-10 22:39:28.912353,95,1
+52,The Matrix,the matrix reloaded,Action Sci-Fi,10,2024-07-10 22:39:28.920585,80,1
+53,The Dark Knight,batman begins,Action Adventure,7,2024-07-10 22:39:29.940197,66,1
+53,The Dark Knight,the dark knight,Action Crime Drama Thriller,1,2024-07-10 22:39:29.948909,36,1
+54,The Matrix,the matrix revolutions,Action Sci-Fi,10,2024-07-10 22:39:30.975520,100,1
+54,The Matrix,the matrix reloaded,Action Sci-Fi,10,2024-07-10 22:39:30.990310,99,1
+55,Fight Club,the curious case of benjamin button,Drama Fantasy Romance,10,2024-07-10 22:39:32.021531,99,1
+55,Fight Club,legends of the fall,Drama Romance War Western,3,2024-07-10 22:39:32.032039,19,1
+56,The Dark Knight,batman begins,Action Adventure,7,2024-07-10 22:39:33.057635,61,1
+56,The Dark Knight,the dark knight,Action Crime Drama Thriller,7,2024-07-10 22:39:33.066768,56,1
+57,Fight Club,the curious case of benjamin button,Drama Fantasy Romance,10,2024-07-10 22:39:34.082712,83,1
+57,Fight Club,legends of the fall,Drama Romance War Western,2,2024-07-10 22:39:34.088827,12,1
+58,Pulp Fiction,reservoir dogs,Crime Drama Thriller,9,2024-07-10 22:39:35.110174,87,1
+58,Pulp Fiction,desperado,Action Crime Thriller,10,2024-07-10 22:39:35.120323,87,1
+58,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,10,2024-07-10 22:39:35.129417,100,1
+59,Pulp Fiction,reservoir dogs,Crime Drama Thriller,9,2024-07-10 22:39:36.152449,96,1
+59,Pulp Fiction,desperado,Action Crime Thriller,10,2024-07-10 22:39:36.163408,96,1
+59,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,10,2024-07-10 22:39:36.174913,91,1
+60,Fight Club,the curious case of benjamin button,Drama Fantasy Romance,10,2024-07-10 22:39:37.197746,88,1
+60,Fight Club,legends of the fall,Drama Romance War Western,2,2024-07-10 22:39:37.209463,43,1
+61,Fight Club,the curious case of benjamin button,Drama Fantasy Romance,10,2024-07-10 22:39:38.242077,84,1
+61,Fight Club,legends of the fall,Drama Romance War Western,2,2024-07-10 22:39:38.261385,23,1
+62,Pulp Fiction,reservoir dogs,Crime Drama Thriller,9,2024-07-10 22:39:39.295264,92,1
+62,Pulp Fiction,desperado,Action Crime Thriller,10,2024-07-10 22:39:39.304627,84,1
+62,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,10,2024-07-10 22:39:39.314127,92,1
+63,The Dark Knight,batman begins,Action Adventure,7,2024-07-10 22:39:40.337069,54,1
+63,The Dark Knight,the dark knight,Action Crime Drama Thriller,5,2024-07-10 22:39:40.347130,59,1
+64,Inception,the dark knight rises,Action Thriller,10,2024-07-10 22:39:41.365152,96,1
+64,Inception,inception,Action Adventure Sci-Fi Thriller,4,2024-07-10 22:39:41.371200,43,1
+65,The Matrix,the matrix revolutions,Action Sci-Fi,10,2024-07-10 22:39:42.387935,83,1
+65,The Matrix,the matrix reloaded,Action Sci-Fi,10,2024-07-10 22:39:42.399185,92,1
+66,The Dark Knight,batman begins,Action Adventure,7,2024-07-10 22:39:43.426913,74,1
+66,The Dark Knight,the dark knight,Action Crime Drama Thriller,5,2024-07-10 22:39:43.439663,80,1
+67,The Dark Knight,batman begins,Action Adventure,7,2024-07-10 22:39:44.467620,73,1
+67,The Dark Knight,the dark knight,Action Crime Drama Thriller,6,2024-07-10 22:39:44.476703,62,1
+68,Pulp Fiction,reservoir dogs,Crime Drama Thriller,9,2024-07-10 22:39:45.499250,83,1
+68,Pulp Fiction,desperado,Action Crime Thriller,10,2024-07-10 22:39:45.510779,89,1
+68,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,10,2024-07-10 22:39:45.524499,82,1
+69,Inception,the dark knight rises,Action Thriller,10,2024-07-10 22:39:46.560730,81,1
+69,Inception,inception,Action Adventure Sci-Fi Thriller,10,2024-07-10 22:39:46.580126,94,1
+70,The Matrix,the matrix revolutions,Action Sci-Fi,10,2024-07-10 22:39:47.611797,92,1
+70,The Matrix,the matrix reloaded,Action Sci-Fi,10,2024-07-10 22:39:47.621698,94,1
+71,Pulp Fiction,reservoir dogs,Crime Drama Thriller,9,2024-07-10 22:39:48.647070,89,1
+71,Pulp Fiction,desperado,Action Crime Thriller,10,2024-07-10 22:39:48.659635,89,1
+71,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,10,2024-07-10 22:39:48.669809,98,1
+72,The Matrix,the matrix revolutions,Action Sci-Fi,10,2024-07-10 22:39:49.692218,88,1
+72,The Matrix,the matrix reloaded,Action Sci-Fi,10,2024-07-10 22:39:49.705658,97,1
+73,The Dark Knight,batman begins,Action Adventure,7,2024-07-10 22:39:50.740870,69,1
+73,The Dark Knight,the dark knight,Action Crime Drama Thriller,5,2024-07-10 22:39:50.749804,54,1
+74,The Matrix,the matrix revolutions,Action Sci-Fi,10,2024-07-10 22:39:51.773731,85,1
+74,The Matrix,the matrix reloaded,Action Sci-Fi,10,2024-07-10 22:39:51.783100,81,1
+75,Pulp Fiction,reservoir dogs,Crime Drama Thriller,9,2024-07-10 22:39:52.802621,86,1
+75,Pulp Fiction,desperado,Action Crime Thriller,10,2024-07-10 22:39:52.811471,94,1
+75,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,10,2024-07-10 22:39:52.820386,85,1
+76,Pulp Fiction,reservoir dogs,Crime Drama Thriller,9,2024-07-10 22:39:53.844043,82,1
+76,Pulp Fiction,desperado,Action Crime Thriller,10,2024-07-10 22:39:53.854295,88,1
+76,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,10,2024-07-10 22:39:53.866868,96,1
+77,Pulp Fiction,reservoir dogs,Crime Drama Thriller,9,2024-07-10 22:39:54.894455,100,1
+77,Pulp Fiction,desperado,Action Crime Thriller,10,2024-07-10 22:39:54.904124,90,1
+77,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,10,2024-07-10 22:39:54.914994,99,1
+78,The Dark Knight,batman begins,Action Adventure,7,2024-07-10 22:39:55.938195,64,1
+78,The Dark Knight,the dark knight,Action Crime Drama Thriller,9,2024-07-10 22:39:55.948466,90,1
+79,Fight Club,the curious case of benjamin button,Drama Fantasy Romance,10,2024-07-10 22:39:56.974153,93,1
+79,Fight Club,legends of the fall,Drama Romance War Western,10,2024-07-10 22:39:56.986365,93,1
+80,Fight Club,the curious case of benjamin button,Drama Fantasy Romance,10,2024-07-10 22:39:58.011312,96,1
+80,Fight Club,legends of the fall,Drama Romance War Western,1,2024-07-10 22:39:58.022124,40,1
+81,Pulp Fiction,reservoir dogs,Crime Drama Thriller,9,2024-07-10 22:39:59.043266,85,1
+81,Pulp Fiction,desperado,Action Crime Thriller,10,2024-07-10 22:39:59.052248,98,1
+81,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,10,2024-07-10 22:39:59.060985,87,1
+83,Pulp Fiction,reservoir dogs,Crime Drama Thriller,9,2024-07-10 22:40:01.099768,83,1
+83,Pulp Fiction,desperado,Action Crime Thriller,10,2024-07-10 22:40:01.113164,85,1
+83,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,10,2024-07-10 22:40:01.123287,92,1
+84,The Dark Knight,batman begins,Action Adventure,7,2024-07-10 22:40:02.149253,75,1
+84,The Dark Knight,the dark knight,Action Crime Drama Thriller,5,2024-07-10 22:40:02.161718,78,1
+85,The Matrix,the matrix revolutions,Action Sci-Fi,10,2024-07-10 22:40:03.187707,91,1
+85,The Matrix,the matrix reloaded,Action Sci-Fi,10,2024-07-10 22:40:03.197552,86,1
+86,Inception,the dark knight rises,Action Thriller,10,2024-07-10 22:40:04.212431,91,1
+86,Inception,inception,Action Adventure Sci-Fi Thriller,2,2024-07-10 22:40:04.219339,31,1
+87,The Dark Knight,batman begins,Action Adventure,7,2024-07-10 22:40:05.246517,80,1
+87,The Dark Knight,the dark knight,Action Crime Drama Thriller,5,2024-07-10 22:40:05.264121,77,1
+88,The Dark Knight,batman begins,Action Adventure,7,2024-07-10 22:40:06.307831,71,1
+88,The Dark Knight,the dark knight,Action Crime Drama Thriller,5,2024-07-10 22:40:06.326023,76,1
+89,Inception,the dark knight rises,Action Thriller,10,2024-07-10 22:40:07.371281,89,1
+89,Inception,inception,Action Adventure Sci-Fi Thriller,10,2024-07-10 22:40:07.395081,80,1
+90,Inception,the dark knight rises,Action Thriller,10,2024-07-10 22:40:08.435820,97,1
+90,Inception,inception,Action Adventure Sci-Fi Thriller,10,2024-07-10 22:40:08.452148,96,1
+91,The Matrix,the matrix revolutions,Action Sci-Fi,10,2024-07-10 22:40:09.481542,93,1
+91,The Matrix,the matrix reloaded,Action Sci-Fi,10,2024-07-10 22:40:09.503570,93,1
+92,Inception,the dark knight rises,Action Thriller,10,2024-07-10 22:40:10.547916,96,1
+92,Inception,inception,Action Adventure Sci-Fi Thriller,10,2024-07-10 22:40:10.565812,82,1
+93,The Matrix,the matrix revolutions,Action Sci-Fi,10,2024-07-10 22:40:11.598577,85,1
+93,The Matrix,the matrix reloaded,Action Sci-Fi,10,2024-07-10 22:40:11.608234,89,1
+94,Pulp Fiction,reservoir dogs,Crime Drama Thriller,9,2024-07-10 22:40:12.633260,97,1
+94,Pulp Fiction,desperado,Action Crime Thriller,10,2024-07-10 22:40:12.643334,88,1
+94,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,10,2024-07-10 22:40:12.654812,95,1
+95,Pulp Fiction,reservoir dogs,Crime Drama Thriller,9,2024-07-10 22:40:13.687365,92,1
+95,Pulp Fiction,desperado,Action Crime Thriller,10,2024-07-10 22:40:13.708951,89,1
+95,Pulp Fiction,once upon a time in mexico,Action Crime Thriller,10,2024-07-10 22:40:13.730433,81,1
+96,Fight Club,the curious case of benjamin button,Drama Fantasy Romance,10,2024-07-10 22:40:14.771318,81,1
+96,Fight Club,legends of the fall,Drama Romance War Western,4,2024-07-10 22:40:14.791650,22,1
+97,Inception,the dark knight rises,Action Thriller,10,2024-07-10 22:40:15.832474,83,1
+97,Inception,inception,Action Adventure Sci-Fi Thriller,10,2024-07-10 22:40:15.852733,81,1
+98,The Dark Knight,batman begins,Action Adventure,7,2024-07-10 22:40:16.892343,57,1
+98,The Dark Knight,the dark knight,Action Crime Drama Thriller,5,2024-07-10 22:40:16.902983,79,1
+99,Inception,the dark knight rises,Action Thriller,10,2024-07-10 22:40:17.930154,90,1
+99,Inception,inception,Action Adventure Sci-Fi Thriller,10,2024-07-10 22:40:17.941894,97,1
+100,The Matrix,the matrix revolutions,Action Sci-Fi,10,2024-07-10 22:40:18.963820,89,1
+100,The Matrix,the matrix reloaded,Action Sci-Fi,10,2024-07-10 22:40:18.975924,97,1

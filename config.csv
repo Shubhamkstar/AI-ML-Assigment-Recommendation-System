@@ -1,0 +1,8 @@
+parameter,value
+initial_preferences,"{'Action': 0, 'Comedy': 0, 'Drama': 0, 'Horror': 0}"
+alpha,0.1
+gamma,0.9
+no_pick_chance,0.1
+explore_chance,0.4
+base_url,http://127.0.0.1:5000
+param_grid,"{'alpha': [0.01, 0.1, 1], 'gamma': [0.1, 0.5, 0.9]}"

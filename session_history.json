@@ -1,0 +1,3755 @@
+[
+    {
+        "session": 1,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:38:35.927892",
+                "watch_percentage": 87,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:38:35.933571",
+                "watch_percentage": 90,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0
+        }
+    },
+    {
+        "session": 2,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.179,
+            "Action Crime Drama Thriller": 0.09
+        }
+    },
+    {
+        "session": 3,
+        "initial_movie": "Inception",
+        "picked_movies": [
+            {
+                "picked_movie": "the dark knight rises",
+                "genre": "Action Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:38:37.967067",
+                "watch_percentage": 96,
+                "position": 1
+            },
+            {
+                "picked_movie": "inception",
+                "genre": "Action Adventure Sci-Fi Thriller",
+                "rating": "6",
+                "timestamp": "2024-07-10 22:38:37.978336",
+                "watch_percentage": 62,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.179,
+            "Action Crime Drama Thriller": 0.09
+        }
+    },
+    {
+        "session": 4,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "1",
+                "timestamp": "2024-07-10 22:38:39.005554",
+                "watch_percentage": 44,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "5",
+                "timestamp": "2024-07-10 22:38:39.015037",
+                "watch_percentage": 63,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.179,
+            "Action Crime Drama Thriller": 0.09,
+            "Action Thriller": 0.1,
+            "Action Adventure Sci-Fi Thriller": 0.06000000000000001
+        }
+    },
+    {
+        "session": 5,
+        "initial_movie": "Fight Club",
+        "picked_movies": [
+            {
+                "picked_movie": "the curious case of benjamin button",
+                "genre": "Drama Fantasy Romance",
+                "rating": "4",
+                "timestamp": "2024-07-10 22:38:40.037175",
+                "watch_percentage": 26,
+                "position": 1
+            },
+            {
+                "picked_movie": "legends of the fall",
+                "genre": "Drama Romance War Western",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:38:40.045487",
+                "watch_percentage": 68,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.2691,
+            "Action Crime Drama Thriller": 0.1481,
+            "Action Thriller": 0.1,
+            "Action Adventure Sci-Fi Thriller": 0.06000000000000001
+        }
+    },
+    {
+        "session": 6,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "4",
+                "timestamp": "2024-07-10 22:38:41.071707",
+                "watch_percentage": 17,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "5",
+                "timestamp": "2024-07-10 22:38:41.081937",
+                "watch_percentage": 78,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.2691,
+            "Action Crime Drama Thriller": 0.1481,
+            "Action Thriller": 0.1,
+            "Action Adventure Sci-Fi Thriller": 0.06000000000000001,
+            "Drama Fantasy Romance": 0.1336,
+            "Drama Romance War Western": 0.07
+        }
+    },
+    {
+        "session": 7,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:38:42.104973",
+                "watch_percentage": 80,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:38:42.113745",
+                "watch_percentage": 80,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.391108,
+            "Action Crime Drama Thriller": 0.20039,
+            "Action Thriller": 0.1,
+            "Action Adventure Sci-Fi Thriller": 0.06000000000000001,
+            "Drama Fantasy Romance": 0.1336,
+            "Drama Romance War Western": 0.07
+        }
+    },
+    {
+        "session": 8,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:38:43.139701",
+                "watch_percentage": 90,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:38:43.149438",
+                "watch_percentage": 83,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:38:43.159777",
+                "watch_percentage": 93,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.5260578799,
+            "Action Crime Drama Thriller": 0.2913251,
+            "Action Thriller": 0.1,
+            "Action Adventure Sci-Fi Thriller": 0.06000000000000001,
+            "Drama Fantasy Romance": 0.1336,
+            "Drama Romance War Western": 0.07
+        }
+    },
+    {
+        "session": 9,
+        "initial_movie": "Fight Club",
+        "picked_movies": [
+            {
+                "picked_movie": "the curious case of benjamin button",
+                "genre": "Drama Fantasy Romance",
+                "rating": "1",
+                "timestamp": "2024-07-10 22:38:44.183786",
+                "watch_percentage": 18,
+                "position": 1
+            },
+            {
+                "picked_movie": "legends of the fall",
+                "genre": "Drama Romance War Western",
+                "rating": "5",
+                "timestamp": "2024-07-10 22:38:44.193464",
+                "watch_percentage": 77,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.5260578799,
+            "Action Crime Drama Thriller": 0.2913251,
+            "Action Thriller": 0.1,
+            "Action Adventure Sci-Fi Thriller": 0.06000000000000001,
+            "Drama Fantasy Romance": 0.1336,
+            "Drama Romance War Western": 0.07,
+            "Crime Drama Thriller": 0.09,
+            "Action Crime Thriller": 0.199
+        }
+    },
+    {
+        "session": 10,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:38:45.217032",
+                "watch_percentage": 73,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "3",
+                "timestamp": "2024-07-10 22:38:45.226694",
+                "watch_percentage": 30,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.5260578799,
+            "Action Crime Drama Thriller": 0.2913251,
+            "Action Thriller": 0.1,
+            "Action Adventure Sci-Fi Thriller": 0.06000000000000001,
+            "Drama Fantasy Romance": 0.196448,
+            "Drama Romance War Western": 0.12630000000000002,
+            "Crime Drama Thriller": 0.09,
+            "Action Crime Thriller": 0.199
+        }
+    },
+    {
+        "session": 11,
+        "initial_movie": "Inception",
+        "picked_movies": [
+            {
+                "picked_movie": "the dark knight rises",
+                "genre": "Action Thriller",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:38:46.249513",
+                "watch_percentage": 64,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.69032359630009,
+            "Action Crime Drama Thriller": 0.337609259,
+            "Action Thriller": 0.1,
+            "Action Adventure Sci-Fi Thriller": 0.06000000000000001,
+            "Drama Fantasy Romance": 0.196448,
+            "Drama Romance War Western": 0.12630000000000002,
+            "Crime Drama Thriller": 0.09,
+            "Action Crime Thriller": 0.199
+        }
+    },
+    {
+        "session": 12,
+        "initial_movie": "Fight Club",
+        "picked_movies": [
+            {
+                "picked_movie": "the curious case of benjamin button",
+                "genre": "Drama Fantasy Romance",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:38:47.279149",
+                "watch_percentage": 93,
+                "position": 1
+            },
+            {
+                "picked_movie": "legends of the fall",
+                "genre": "Drama Romance War Western",
+                "rating": "4",
+                "timestamp": "2024-07-10 22:38:47.292594",
+                "watch_percentage": 45,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.69032359630009,
+            "Action Crime Drama Thriller": 0.337609259,
+            "Action Thriller": 0.179,
+            "Action Adventure Sci-Fi Thriller": 0.06000000000000001,
+            "Drama Fantasy Romance": 0.196448,
+            "Drama Romance War Western": 0.12630000000000002,
+            "Crime Drama Thriller": 0.09,
+            "Action Crime Thriller": 0.199
+        }
+    },
+    {
+        "session": 13,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "2",
+                "timestamp": "2024-07-10 22:38:48.319389",
+                "watch_percentage": 31,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.69032359630009,
+            "Action Crime Drama Thriller": 0.337609259,
+            "Action Thriller": 0.179,
+            "Action Adventure Sci-Fi Thriller": 0.06000000000000001,
+            "Drama Fantasy Romance": 0.33350936,
+            "Drama Romance War Western": 0.17260000000000003,
+            "Crime Drama Thriller": 0.09,
+            "Action Crime Thriller": 0.199
+        }
+    },
+    {
+        "session": 14,
+        "initial_movie": "Inception",
+        "picked_movies": [
+            {
+                "picked_movie": "the dark knight rises",
+                "genre": "Action Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:38:49.342381",
+                "watch_percentage": 84,
+                "position": 1
+            },
+            {
+                "picked_movie": "inception",
+                "genre": "Action Adventure Sci-Fi Thriller",
+                "rating": "4",
+                "timestamp": "2024-07-10 22:38:49.351522",
+                "watch_percentage": 48,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.69032359630009,
+            "Action Crime Drama Thriller": 0.337609259,
+            "Action Thriller": 0.179,
+            "Action Adventure Sci-Fi Thriller": 0.06000000000000001,
+            "Drama Fantasy Romance": 0.33350936,
+            "Drama Romance War Western": 0.17260000000000003,
+            "Crime Drama Thriller": 0.11810000000000001,
+            "Action Crime Thriller": 0.199
+        }
+    },
+    {
+        "session": 15,
+        "initial_movie": "The Matrix",
+        "picked_movies": [
+            {
+                "picked_movie": "the matrix revolutions",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:38:50.373692",
+                "watch_percentage": 83,
+                "position": 1
+            },
+            {
+                "picked_movie": "the matrix reloaded",
+                "genre": "Action Sci-Fi",
+                "rating": "6",
+                "timestamp": "2024-07-10 22:38:50.383365",
+                "watch_percentage": 70,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.69032359630009,
+            "Action Crime Drama Thriller": 0.337609259,
+            "Action Thriller": 0.37601000000000007,
+            "Action Adventure Sci-Fi Thriller": 0.10540000000000001,
+            "Drama Fantasy Romance": 0.33350936,
+            "Drama Romance War Western": 0.17260000000000003,
+            "Crime Drama Thriller": 0.11810000000000001,
+            "Action Crime Thriller": 0.199
+        }
+    },
+    {
+        "session": 16,
+        "initial_movie": "The Matrix",
+        "picked_movies": [
+            {
+                "picked_movie": "the matrix revolutions",
+                "genre": "Action Sci-Fi",
+                "rating": "2",
+                "timestamp": "2024-07-10 22:38:51.408260",
+                "watch_percentage": 37,
+                "position": 1
+            },
+            {
+                "picked_movie": "the matrix reloaded",
+                "genre": "Action Sci-Fi",
+                "rating": "6",
+                "timestamp": "2024-07-10 22:38:51.419836",
+                "watch_percentage": 66,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.69032359630009,
+            "Action Crime Drama Thriller": 0.337609259,
+            "Action Thriller": 0.37601000000000007,
+            "Action Adventure Sci-Fi Thriller": 0.10540000000000001,
+            "Drama Fantasy Romance": 0.33350936,
+            "Drama Romance War Western": 0.17260000000000003,
+            "Crime Drama Thriller": 0.11810000000000001,
+            "Action Crime Thriller": 0.199,
+            "Action Sci-Fi": 0.268
+        }
+    },
+    {
+        "session": 17,
+        "initial_movie": "The Matrix",
+        "picked_movies": [
+            {
+                "picked_movie": "the matrix revolutions",
+                "genre": "Action Sci-Fi",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:38:52.449201",
+                "watch_percentage": 71,
+                "position": 1
+            },
+            {
+                "picked_movie": "the matrix reloaded",
+                "genre": "Action Sci-Fi",
+                "rating": "6",
+                "timestamp": "2024-07-10 22:38:52.461037",
+                "watch_percentage": 62,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.69032359630009,
+            "Action Crime Drama Thriller": 0.337609259,
+            "Action Thriller": 0.37601000000000007,
+            "Action Adventure Sci-Fi Thriller": 0.10540000000000001,
+            "Drama Fantasy Romance": 0.33350936,
+            "Drama Romance War Western": 0.17260000000000003,
+            "Crime Drama Thriller": 0.11810000000000001,
+            "Action Crime Thriller": 0.199,
+            "Action Sci-Fi": 0.4749300000000001
+        }
+    },
+    {
+        "session": 18,
+        "initial_movie": "Inception",
+        "picked_movies": [
+            {
+                "picked_movie": "the dark knight rises",
+                "genre": "Action Thriller",
+                "rating": "5",
+                "timestamp": "2024-07-10 22:38:53.480097",
+                "watch_percentage": 57,
+                "position": 1
+            },
+            {
+                "picked_movie": "inception",
+                "genre": "Action Adventure Sci-Fi Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:38:53.485691",
+                "watch_percentage": 83,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.69032359630009,
+            "Action Crime Drama Thriller": 0.337609259,
+            "Action Thriller": 0.37601000000000007,
+            "Action Adventure Sci-Fi Thriller": 0.10540000000000001,
+            "Drama Fantasy Romance": 0.33350936,
+            "Drama Romance War Western": 0.17260000000000003,
+            "Crime Drama Thriller": 0.11810000000000001,
+            "Action Crime Thriller": 0.199,
+            "Action Sci-Fi": 0.7611217000000001
+        }
+    },
+    {
+        "session": 19,
+        "initial_movie": "Inception",
+        "picked_movies": [
+            {
+                "picked_movie": "the dark knight rises",
+                "genre": "Action Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:38:54.509396",
+                "watch_percentage": 90,
+                "position": 1
+            },
+            {
+                "picked_movie": "inception",
+                "genre": "Action Adventure Sci-Fi Thriller",
+                "rating": "2",
+                "timestamp": "2024-07-10 22:38:54.522783",
+                "watch_percentage": 37,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.69032359630009,
+            "Action Crime Drama Thriller": 0.337609259,
+            "Action Thriller": 0.5497708,
+            "Action Adventure Sci-Fi Thriller": 0.21080000000000002,
+            "Drama Fantasy Romance": 0.33350936,
+            "Drama Romance War Western": 0.17260000000000003,
+            "Crime Drama Thriller": 0.11810000000000001,
+            "Action Crime Thriller": 0.199,
+            "Action Sci-Fi": 0.7611217000000001
+        }
+    },
+    {
+        "session": 20,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:38:55.548893",
+                "watch_percentage": 50,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:38:55.561664",
+                "watch_percentage": 93,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.69032359630009,
+            "Action Crime Drama Thriller": 0.337609259,
+            "Action Thriller": 0.74092940599,
+            "Action Adventure Sci-Fi Thriller": 0.24028600000000006,
+            "Drama Fantasy Romance": 0.33350936,
+            "Drama Romance War Western": 0.17260000000000003,
+            "Crime Drama Thriller": 0.11810000000000001,
+            "Action Crime Thriller": 0.199,
+            "Action Sci-Fi": 0.7611217000000001
+        }
+    },
+    {
+        "session": 21,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:38:56.591042",
+                "watch_percentage": 69,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.8212653298171801,
+            "Action Crime Drama Thriller": 0.425799908,
+            "Action Thriller": 0.74092940599,
+            "Action Adventure Sci-Fi Thriller": 0.24028600000000006,
+            "Drama Fantasy Romance": 0.33350936,
+            "Drama Romance War Western": 0.17260000000000003,
+            "Crime Drama Thriller": 0.11810000000000001,
+            "Action Crime Thriller": 0.199,
+            "Action Sci-Fi": 0.7611217000000001
+        }
+    },
+    {
+        "session": 22,
+        "initial_movie": "Inception",
+        "picked_movies": [
+            {
+                "picked_movie": "the dark knight rises",
+                "genre": "Action Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:38:57.614565",
+                "watch_percentage": 83,
+                "position": 1
+            },
+            {
+                "picked_movie": "inception",
+                "genre": "Action Adventure Sci-Fi Thriller",
+                "rating": "2",
+                "timestamp": "2024-07-10 22:38:57.626658",
+                "watch_percentage": 24,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.8857557785709993,
+            "Action Crime Drama Thriller": 0.425799908,
+            "Action Thriller": 0.74092940599,
+            "Action Adventure Sci-Fi Thriller": 0.24028600000000006,
+            "Drama Fantasy Romance": 0.33350936,
+            "Drama Romance War Western": 0.17260000000000003,
+            "Crime Drama Thriller": 0.11810000000000001,
+            "Action Crime Thriller": 0.199,
+            "Action Sci-Fi": 0.7611217000000001
+        }
+    },
+    {
+        "session": 23,
+        "initial_movie": "The Matrix",
+        "picked_movies": [
+            {
+                "picked_movie": "the matrix revolutions",
+                "genre": "Action Sci-Fi",
+                "rating": "3",
+                "timestamp": "2024-07-10 22:38:58.651683",
+                "watch_percentage": 12,
+                "position": 1
+            },
+            {
+                "picked_movie": "the matrix reloaded",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:38:58.661378",
+                "watch_percentage": 85,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.8857557785709993,
+            "Action Crime Drama Thriller": 0.425799908,
+            "Action Thriller": 0.9282839557207991,
+            "Action Adventure Sci-Fi Thriller": 0.2668234,
+            "Drama Fantasy Romance": 0.33350936,
+            "Drama Romance War Western": 0.17260000000000003,
+            "Crime Drama Thriller": 0.11810000000000001,
+            "Action Crime Thriller": 0.199,
+            "Action Sci-Fi": 0.7611217000000001
+        }
+    },
+    {
+        "session": 24,
+        "initial_movie": "The Matrix",
+        "picked_movies": [
+            {
+                "picked_movie": "the matrix revolutions",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:38:59.687249",
+                "watch_percentage": 83,
+                "position": 1
+            },
+            {
+                "picked_movie": "the matrix reloaded",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:38:59.699566",
+                "watch_percentage": 85,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.8857557785709993,
+            "Action Crime Drama Thriller": 0.425799908,
+            "Action Thriller": 0.9282839557207991,
+            "Action Adventure Sci-Fi Thriller": 0.2668234,
+            "Drama Fantasy Romance": 0.33350936,
+            "Drama Romance War Western": 0.17260000000000003,
+            "Crime Drama Thriller": 0.11810000000000001,
+            "Action Crime Thriller": 0.199,
+            "Action Sci-Fi": 1.0109421010000001
+        }
+    },
+    {
+        "session": 25,
+        "initial_movie": "The Matrix",
+        "picked_movies": [
+            {
+                "picked_movie": "the matrix revolutions",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:00.725191",
+                "watch_percentage": 96,
+                "position": 1
+            },
+            {
+                "picked_movie": "the matrix reloaded",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:00.737146",
+                "watch_percentage": 90,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.8857557785709993,
+            "Action Crime Drama Thriller": 0.425799908,
+            "Action Thriller": 0.9282839557207991,
+            "Action Adventure Sci-Fi Thriller": 0.2668234,
+            "Drama Fantasy Romance": 0.33350936,
+            "Drama Romance War Western": 0.17260000000000003,
+            "Crime Drama Thriller": 0.11810000000000001,
+            "Action Crime Thriller": 0.199,
+            "Action Sci-Fi": 1.2933956557207993
+        }
+    },
+    {
+        "session": 26,
+        "initial_movie": "The Matrix",
+        "picked_movies": [
+            {
+                "picked_movie": "the matrix revolutions",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:01.766249",
+                "watch_percentage": 84,
+                "position": 1
+            },
+            {
+                "picked_movie": "the matrix reloaded",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:01.777761",
+                "watch_percentage": 84,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.8857557785709993,
+            "Action Crime Drama Thriller": 0.425799908,
+            "Action Thriller": 0.9282839557207991,
+            "Action Adventure Sci-Fi Thriller": 0.2668234,
+            "Drama Fantasy Romance": 0.33350936,
+            "Drama Romance War Western": 0.17260000000000003,
+            "Crime Drama Thriller": 0.11810000000000001,
+            "Action Crime Thriller": 0.199,
+            "Action Sci-Fi": 1.5674600574128355
+        }
+    },
+    {
+        "session": 27,
+        "initial_movie": "Fight Club",
+        "picked_movies": [
+            {
+                "picked_movie": "the curious case of benjamin button",
+                "genre": "Drama Fantasy Romance",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:02.797214",
+                "watch_percentage": 95,
+                "position": 1
+            },
+            {
+                "picked_movie": "legends of the fall",
+                "genre": "Drama Romance War Western",
+                "rating": "1",
+                "timestamp": "2024-07-10 22:39:02.801673",
+                "watch_percentage": 34,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.8857557785709993,
+            "Action Crime Drama Thriller": 0.425799908,
+            "Action Thriller": 0.9282839557207991,
+            "Action Adventure Sci-Fi Thriller": 0.2668234,
+            "Drama Fantasy Romance": 0.33350936,
+            "Drama Romance War Western": 0.17260000000000003,
+            "Crime Drama Thriller": 0.11810000000000001,
+            "Action Crime Thriller": 0.199,
+            "Action Sci-Fi": 1.833384472310217
+        }
+    },
+    {
+        "session": 28,
+        "initial_movie": "The Matrix",
+        "picked_movies": [
+            {
+                "picked_movie": "the matrix revolutions",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:03.820894",
+                "watch_percentage": 96,
+                "position": 1
+            },
+            {
+                "picked_movie": "the matrix reloaded",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:03.834651",
+                "watch_percentage": 91,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.8857557785709993,
+            "Action Crime Drama Thriller": 0.425799908,
+            "Action Thriller": 0.9282839557207991,
+            "Action Adventure Sci-Fi Thriller": 0.2668234,
+            "Drama Fantasy Romance": 0.554744904,
+            "Drama Romance War Western": 0.1889,
+            "Crime Drama Thriller": 0.11810000000000001,
+            "Action Crime Thriller": 0.199,
+            "Action Sci-Fi": 1.833384472310217
+        }
+    },
+    {
+        "session": 29,
+        "initial_movie": "Inception",
+        "picked_movies": [
+            {
+                "picked_movie": "the dark knight rises",
+                "genre": "Action Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:04.864472",
+                "watch_percentage": 92,
+                "position": 1
+            },
+            {
+                "picked_movie": "inception",
+                "genre": "Action Adventure Sci-Fi Thriller",
+                "rating": "5",
+                "timestamp": "2024-07-10 22:39:04.882382",
+                "watch_percentage": 50,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.8857557785709993,
+            "Action Crime Drama Thriller": 0.425799908,
+            "Action Thriller": 0.9282839557207991,
+            "Action Adventure Sci-Fi Thriller": 0.2668234,
+            "Drama Fantasy Romance": 0.554744904,
+            "Drama Romance War Western": 0.1889,
+            "Crime Drama Thriller": 0.11810000000000001,
+            "Action Crime Thriller": 0.199,
+            "Action Sci-Fi": 2.0914106661607312
+        }
+    },
+    {
+        "session": 30,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:39:05.913017",
+                "watch_percentage": 51,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "5",
+                "timestamp": "2024-07-10 22:39:05.923300",
+                "watch_percentage": 50,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 0.8857557785709993,
+            "Action Crime Drama Thriller": 0.425799908,
+            "Action Thriller": 1.1119101499119552,
+            "Action Adventure Sci-Fi Thriller": 0.3263094000000001,
+            "Drama Fantasy Romance": 0.554744904,
+            "Drama Romance War Western": 0.1889,
+            "Crime Drama Thriller": 0.11810000000000001,
+            "Action Crime Thriller": 0.199,
+            "Action Sci-Fi": 2.0914106661607312
+        }
+    },
+    {
+        "session": 31,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "5",
+                "timestamp": "2024-07-10 22:39:06.944158",
+                "watch_percentage": 58,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:39:06.954553",
+                "watch_percentage": 50,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:39:06.963682",
+                "watch_percentage": 55,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.0128084116608984,
+            "Action Crime Drama Thriller": 0.48898222541,
+            "Action Thriller": 1.1119101499119552,
+            "Action Adventure Sci-Fi Thriller": 0.3263094000000001,
+            "Drama Fantasy Romance": 0.554744904,
+            "Drama Romance War Western": 0.1889,
+            "Crime Drama Thriller": 0.11810000000000001,
+            "Action Crime Thriller": 0.199,
+            "Action Sci-Fi": 2.0914106661607312
+        }
+    },
+    {
+        "session": 32,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:39:07.990834",
+                "watch_percentage": 89,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "2",
+                "timestamp": "2024-07-10 22:39:08.001674",
+                "watch_percentage": 48,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:08.012401",
+                "watch_percentage": 80,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.0128084116608984,
+            "Action Crime Drama Thriller": 0.48898222541,
+            "Action Thriller": 1.1119101499119552,
+            "Action Adventure Sci-Fi Thriller": 0.3263094000000001,
+            "Drama Fantasy Romance": 0.554744904,
+            "Drama Romance War Western": 0.1889,
+            "Crime Drama Thriller": 0.1762,
+            "Action Crime Thriller": 0.36602900000000005,
+            "Action Sci-Fi": 2.0914106661607312
+        }
+    },
+    {
+        "session": 33,
+        "initial_movie": "The Matrix",
+        "picked_movies": [
+            {
+                "picked_movie": "the matrix revolutions",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:09.034750",
+                "watch_percentage": 80,
+                "position": 1
+            },
+            {
+                "picked_movie": "the matrix reloaded",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:09.047901",
+                "watch_percentage": 84,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.0128084116608984,
+            "Action Crime Drama Thriller": 0.48898222541,
+            "Action Thriller": 1.1119101499119552,
+            "Action Adventure Sci-Fi Thriller": 0.3263094000000001,
+            "Drama Fantasy Romance": 0.554744904,
+            "Drama Romance War Western": 0.1889,
+            "Crime Drama Thriller": 0.2653,
+            "Action Crime Thriller": 0.5019490000000001,
+            "Action Sci-Fi": 2.0914106661607312
+        }
+    },
+    {
+        "session": 34,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "2",
+                "timestamp": "2024-07-10 22:39:10.090073",
+                "watch_percentage": 37,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:39:10.110235",
+                "watch_percentage": 55,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:10.123110",
+                "watch_percentage": 97,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.0128084116608984,
+            "Action Crime Drama Thriller": 0.48898222541,
+            "Action Thriller": 1.1119101499119552,
+            "Action Adventure Sci-Fi Thriller": 0.3263094000000001,
+            "Drama Fantasy Romance": 0.554744904,
+            "Drama Romance War Western": 0.1889,
+            "Crime Drama Thriller": 0.2653,
+            "Action Crime Thriller": 0.5019490000000001,
+            "Action Sci-Fi": 2.3417732240276914
+        }
+    },
+    {
+        "session": 35,
+        "initial_movie": "The Matrix",
+        "picked_movies": [
+            {
+                "picked_movie": "the matrix revolutions",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:11.147993",
+                "watch_percentage": 100,
+                "position": 1
+            },
+            {
+                "picked_movie": "the matrix reloaded",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:11.156828",
+                "watch_percentage": 94,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.0128084116608984,
+            "Action Crime Drama Thriller": 0.48898222541,
+            "Action Thriller": 1.1119101499119552,
+            "Action Adventure Sci-Fi Thriller": 0.3263094000000001,
+            "Drama Fantasy Romance": 0.554744904,
+            "Drama Romance War Western": 0.1889,
+            "Crime Drama Thriller": 0.298609,
+            "Action Crime Thriller": 0.6790069000000001,
+            "Action Sci-Fi": 2.3417732240276914
+        }
+    },
+    {
+        "session": 36,
+        "initial_movie": "Fight Club",
+        "picked_movies": [
+            {
+                "picked_movie": "the curious case of benjamin button",
+                "genre": "Drama Fantasy Romance",
+                "rating": "3",
+                "timestamp": "2024-07-10 22:39:12.179247",
+                "watch_percentage": 22,
+                "position": 1
+            },
+            {
+                "picked_movie": "legends of the fall",
+                "genre": "Drama Romance War Western",
+                "rating": "4",
+                "timestamp": "2024-07-10 22:39:12.188946",
+                "watch_percentage": 39,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.0128084116608984,
+            "Action Crime Drama Thriller": 0.48898222541,
+            "Action Thriller": 1.1119101499119552,
+            "Action Adventure Sci-Fi Thriller": 0.3263094000000001,
+            "Drama Fantasy Romance": 0.554744904,
+            "Drama Romance War Western": 0.1889,
+            "Crime Drama Thriller": 0.298609,
+            "Action Crime Thriller": 0.6790069000000001,
+            "Action Sci-Fi": 2.584699763563445
+        }
+    },
+    {
+        "session": 37,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:39:13.210537",
+                "watch_percentage": 94,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:39:13.220994",
+                "watch_percentage": 66,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:13.231157",
+                "watch_percentage": 95,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.0128084116608984,
+            "Action Crime Drama Thriller": 0.48898222541,
+            "Action Thriller": 1.1119101499119552,
+            "Action Adventure Sci-Fi Thriller": 0.3263094000000001,
+            "Drama Fantasy Romance": 0.70244374752,
+            "Drama Romance War Western": 0.23057,
+            "Crime Drama Thriller": 0.298609,
+            "Action Crime Thriller": 0.6790069000000001,
+            "Action Sci-Fi": 2.584699763563445
+        }
+    },
+    {
+        "session": 38,
+        "initial_movie": "Inception",
+        "picked_movies": [
+            {
+                "picked_movie": "the dark knight rises",
+                "genre": "Action Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:14.255492",
+                "watch_percentage": 94,
+                "position": 1
+            },
+            {
+                "picked_movie": "inception",
+                "genre": "Action Adventure Sci-Fi Thriller",
+                "rating": "2",
+                "timestamp": "2024-07-10 22:39:14.265628",
+                "watch_percentage": 38,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.0128084116608984,
+            "Action Crime Drama Thriller": 0.48898222541,
+            "Action Thriller": 1.1119101499119552,
+            "Action Adventure Sci-Fi Thriller": 0.3263094000000001,
+            "Drama Fantasy Romance": 0.70244374752,
+            "Drama Romance War Western": 0.23057,
+            "Crime Drama Thriller": 0.386818,
+            "Action Crime Thriller": 0.8558243920000003,
+            "Action Sci-Fi": 2.584699763563445
+        }
+    },
+    {
+        "session": 39,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "1",
+                "timestamp": "2024-07-10 22:39:15.289321",
+                "watch_percentage": 24,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:39:15.299201",
+                "watch_percentage": 59,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.0128084116608984,
+            "Action Crime Drama Thriller": 0.48898222541,
+            "Action Thriller": 1.2918821828387073,
+            "Action Adventure Sci-Fi Thriller": 0.35019306000000006,
+            "Drama Fantasy Romance": 0.70244374752,
+            "Drama Romance War Western": 0.23057,
+            "Crime Drama Thriller": 0.386818,
+            "Action Crime Thriller": 0.8558243920000003,
+            "Action Sci-Fi": 2.584699763563445
+        }
+    },
+    {
+        "session": 40,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:39:16.329240",
+                "watch_percentage": 83,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:16.349836",
+                "watch_percentage": 94,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:16.372379",
+                "watch_percentage": 84,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.0128084116608984,
+            "Action Crime Drama Thriller": 0.48898222541,
+            "Action Thriller": 1.2918821828387073,
+            "Action Adventure Sci-Fi Thriller": 0.35019306000000006,
+            "Drama Fantasy Romance": 0.70244374752,
+            "Drama Romance War Western": 0.23057,
+            "Crime Drama Thriller": 0.4208758100000001,
+            "Action Crime Thriller": 0.9371518579900002,
+            "Action Sci-Fi": 2.584699763563445
+        }
+    },
+    {
+        "session": 41,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:39:17.410818",
+                "watch_percentage": 91,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:17.423198",
+                "watch_percentage": 86,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:17.435794",
+                "watch_percentage": 94,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.0128084116608984,
+            "Action Crime Drama Thriller": 0.48898222541,
+            "Action Thriller": 1.2918821828387073,
+            "Action Adventure Sci-Fi Thriller": 0.35019306000000006,
+            "Drama Fantasy Romance": 0.70244374752,
+            "Drama Romance War Western": 0.23057,
+            "Crime Drama Thriller": 0.5082027200000001,
+            "Action Crime Thriller": 1.1263988779201002,
+            "Action Sci-Fi": 2.584699763563445
+        }
+    },
+    {
+        "session": 42,
+        "initial_movie": "Inception",
+        "picked_movies": [
+            {
+                "picked_movie": "the dark knight rises",
+                "genre": "Action Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:18.457312",
+                "watch_percentage": 100,
+                "position": 1
+            },
+            {
+                "picked_movie": "inception",
+                "genre": "Action Adventure Sci-Fi Thriller",
+                "rating": "2",
+                "timestamp": "2024-07-10 22:39:18.471290",
+                "watch_percentage": 35,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.0128084116608984,
+            "Action Crime Drama Thriller": 0.48898222541,
+            "Action Thriller": 1.2918821828387073,
+            "Action Adventure Sci-Fi Thriller": 0.35019306000000006,
+            "Drama Fantasy Romance": 0.70244374752,
+            "Drama Romance War Western": 0.23057,
+            "Crime Drama Thriller": 0.5946563609,
+            "Action Crime Thriller": 1.311879882153591,
+            "Action Sci-Fi": 2.584699763563445
+        }
+    },
+    {
+        "session": 43,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:39:19.514932",
+                "watch_percentage": 61,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "5",
+                "timestamp": "2024-07-10 22:39:19.538487",
+                "watch_percentage": 54,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.0128084116608984,
+            "Action Crime Drama Thriller": 0.48898222541,
+            "Action Thriller": 1.468272772310217,
+            "Action Adventure Sci-Fi Thriller": 0.37168835400000005,
+            "Drama Fantasy Romance": 0.70244374752,
+            "Drama Romance War Western": 0.23057,
+            "Crime Drama Thriller": 0.5946563609,
+            "Action Crime Thriller": 1.311879882153591,
+            "Action Sci-Fi": 2.584699763563445
+        }
+    },
+    {
+        "session": 44,
+        "initial_movie": "Fight Club",
+        "picked_movies": [
+            {
+                "picked_movie": "the curious case of benjamin button",
+                "genre": "Drama Fantasy Romance",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:20.578596",
+                "watch_percentage": 88,
+                "position": 1
+            },
+            {
+                "picked_movie": "legends of the fall",
+                "genre": "Drama Romance War Western",
+                "rating": "4",
+                "timestamp": "2024-07-10 22:39:20.588119",
+                "watch_percentage": 35,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.1373326973523084,
+            "Action Crime Drama Thriller": 0.545846311079,
+            "Action Thriller": 1.468272772310217,
+            "Action Adventure Sci-Fi Thriller": 0.37168835400000005,
+            "Drama Fantasy Romance": 0.70244374752,
+            "Drama Romance War Western": 0.23057,
+            "Crime Drama Thriller": 0.5946563609,
+            "Action Crime Thriller": 1.311879882153591,
+            "Action Sci-Fi": 2.584699763563445
+        }
+    },
+    {
+        "session": 45,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:39:21.611563",
+                "watch_percentage": 67,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "5",
+                "timestamp": "2024-07-10 22:39:21.621130",
+                "watch_percentage": 56,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.1373326973523084,
+            "Action Crime Drama Thriller": 0.545846311079,
+            "Action Thriller": 1.468272772310217,
+            "Action Adventure Sci-Fi Thriller": 0.37168835400000005,
+            "Drama Fantasy Romance": 0.8950951860676561,
+            "Drama Romance War Western": 0.26969030000000005,
+            "Crime Drama Thriller": 0.5946563609,
+            "Action Crime Thriller": 1.311879882153591,
+            "Action Sci-Fi": 2.584699763563445
+        }
+    },
+    {
+        "session": 46,
+        "initial_movie": "Inception",
+        "picked_movies": [
+            {
+                "picked_movie": "the dark knight rises",
+                "genre": "Action Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:22.645456",
+                "watch_percentage": 99,
+                "position": 1
+            },
+            {
+                "picked_movie": "inception",
+                "genre": "Action Adventure Sci-Fi Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:22.656142",
+                "watch_percentage": 100,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.2593789497584593,
+            "Action Crime Drama Thriller": 0.5970239881811,
+            "Action Thriller": 1.468272772310217,
+            "Action Adventure Sci-Fi Thriller": 0.37168835400000005,
+            "Drama Fantasy Romance": 0.8950951860676561,
+            "Drama Romance War Western": 0.26969030000000005,
+            "Crime Drama Thriller": 0.5946563609,
+            "Action Crime Thriller": 1.311879882153591,
+            "Action Sci-Fi": 2.584699763563445
+        }
+    },
+    {
+        "session": 47,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:39:23.677777",
+                "watch_percentage": 57,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "5",
+                "timestamp": "2024-07-10 22:39:23.689075",
+                "watch_percentage": 59,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.2593789497584593,
+            "Action Crime Drama Thriller": 0.5970239881811,
+            "Action Thriller": 1.6411531890512436,
+            "Action Adventure Sci-Fi Thriller": 0.4706343540000001,
+            "Drama Fantasy Romance": 0.8950951860676561,
+            "Drama Romance War Western": 0.26969030000000005,
+            "Crime Drama Thriller": 0.5946563609,
+            "Action Crime Thriller": 1.311879882153591,
+            "Action Sci-Fi": 2.584699763563445
+        }
+    },
+    {
+        "session": 48,
+        "initial_movie": "Inception",
+        "picked_movies": [
+            {
+                "picked_movie": "the dark knight rises",
+                "genre": "Action Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:24.714553",
+                "watch_percentage": 86,
+                "position": 1
+            },
+            {
+                "picked_movie": "inception",
+                "genre": "Action Adventure Sci-Fi Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:24.724507",
+                "watch_percentage": 89,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.3789964817417277,
+            "Action Crime Drama Thriller": 0.6442078473792889,
+            "Action Thriller": 1.6411531890512436,
+            "Action Adventure Sci-Fi Thriller": 0.4706343540000001,
+            "Drama Fantasy Romance": 0.8950951860676561,
+            "Drama Romance War Western": 0.26969030000000005,
+            "Crime Drama Thriller": 0.5946563609,
+            "Action Crime Thriller": 1.311879882153591,
+            "Action Sci-Fi": 2.584699763563445
+        }
+    },
+    {
+        "session": 49,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:39:25.749076",
+                "watch_percentage": 71,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.3789964817417277,
+            "Action Crime Drama Thriller": 0.6442078473792889,
+            "Action Thriller": 1.8105932854991242,
+            "Action Adventure Sci-Fi Thriller": 0.5685908940000001,
+            "Drama Fantasy Romance": 0.8950951860676561,
+            "Drama Romance War Western": 0.26969030000000005,
+            "Crime Drama Thriller": 0.5946563609,
+            "Action Crime Thriller": 1.311879882153591,
+            "Action Sci-Fi": 2.584699763563445
+        }
+    },
+    {
+        "session": 50,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:39:26.782202",
+                "watch_percentage": 86,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:26.803461",
+                "watch_percentage": 85,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:26.824785",
+                "watch_percentage": 93,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.4379096189763014,
+            "Action Crime Drama Thriller": 0.6442078473792889,
+            "Action Thriller": 1.8105932854991242,
+            "Action Adventure Sci-Fi Thriller": 0.5685908940000001,
+            "Drama Fantasy Romance": 0.8950951860676561,
+            "Drama Romance War Western": 0.26969030000000005,
+            "Crime Drama Thriller": 0.5946563609,
+            "Action Crime Thriller": 1.311879882153591,
+            "Action Sci-Fi": 2.584699763563445
+        }
+    },
+    {
+        "session": 51,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:39:27.859099",
+                "watch_percentage": 88,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:27.871652",
+                "watch_percentage": 84,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:27.887324",
+                "watch_percentage": 100,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.4379096189763014,
+            "Action Crime Drama Thriller": 0.6442078473792889,
+            "Action Thriller": 1.8105932854991242,
+            "Action Adventure Sci-Fi Thriller": 0.5685908940000001,
+            "Drama Fantasy Romance": 0.8950951860676561,
+            "Drama Romance War Western": 0.26969030000000005,
+            "Crime Drama Thriller": 0.6802454653910001,
+            "Action Crime Thriller": 1.4936698144028357,
+            "Action Sci-Fi": 2.584699763563445
+        }
+    },
+    {
+        "session": 52,
+        "initial_movie": "The Matrix",
+        "picked_movies": [
+            {
+                "picked_movie": "the matrix revolutions",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:28.912353",
+                "watch_percentage": 95,
+                "position": 1
+            },
+            {
+                "picked_movie": "the matrix reloaded",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:28.920585",
+                "watch_percentage": 80,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.4379096189763014,
+            "Action Crime Drama Thriller": 0.6442078473792889,
+            "Action Thriller": 1.8105932854991242,
+            "Action Adventure Sci-Fi Thriller": 0.5685908940000001,
+            "Drama Fantasy Romance": 0.8950951860676561,
+            "Drama Romance War Western": 0.26969030000000005,
+            "Crime Drama Thriller": 0.76497867883709,
+            "Action Crime Thriller": 1.6718421270003205,
+            "Action Sci-Fi": 2.584699763563445
+        }
+    },
+    {
+        "session": 53,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:39:29.940197",
+                "watch_percentage": 66,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "1",
+                "timestamp": "2024-07-10 22:39:29.948909",
+                "watch_percentage": 36,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.4379096189763014,
+            "Action Crime Drama Thriller": 0.6442078473792889,
+            "Action Thriller": 1.8105932854991242,
+            "Action Adventure Sci-Fi Thriller": 0.5685908940000001,
+            "Drama Fantasy Romance": 0.8950951860676561,
+            "Drama Romance War Western": 0.26969030000000005,
+            "Crime Drama Thriller": 0.76497867883709,
+            "Action Crime Thriller": 1.6718421270003205,
+            "Action Sci-Fi": 2.820411141948447
+        }
+    },
+    {
+        "session": 54,
+        "initial_movie": "The Matrix",
+        "picked_movies": [
+            {
+                "picked_movie": "the matrix revolutions",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:30.975520",
+                "watch_percentage": 100,
+                "position": 1
+            },
+            {
+                "picked_movie": "the matrix reloaded",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:30.990310",
+                "watch_percentage": 99,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.553974390642135,
+            "Action Crime Drama Thriller": 0.683799661923425,
+            "Action Thriller": 1.8105932854991242,
+            "Action Adventure Sci-Fi Thriller": 0.5685908940000001,
+            "Drama Fantasy Romance": 0.8950951860676561,
+            "Drama Romance War Western": 0.26969030000000005,
+            "Crime Drama Thriller": 0.76497867883709,
+            "Action Crime Thriller": 1.6718421270003205,
+            "Action Sci-Fi": 2.820411141948447
+        }
+    },
+    {
+        "session": 55,
+        "initial_movie": "Fight Club",
+        "picked_movies": [
+            {
+                "picked_movie": "the curious case of benjamin button",
+                "genre": "Drama Fantasy Romance",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:32.021531",
+                "watch_percentage": 99,
+                "position": 1
+            },
+            {
+                "picked_movie": "legends of the fall",
+                "genre": "Drama Romance War Western",
+                "rating": "3",
+                "timestamp": "2024-07-10 22:39:32.032039",
+                "watch_percentage": 19,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.553974390642135,
+            "Action Crime Drama Thriller": 0.683799661923425,
+            "Action Thriller": 1.8105932854991242,
+            "Action Adventure Sci-Fi Thriller": 0.5685908940000001,
+            "Drama Fantasy Romance": 0.8950951860676561,
+            "Drama Romance War Western": 0.26969030000000005,
+            "Crime Drama Thriller": 0.76497867883709,
+            "Action Crime Thriller": 1.6718421270003205,
+            "Action Sci-Fi": 3.049121656684036
+        }
+    },
+    {
+        "session": 56,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:39:33.057635",
+                "watch_percentage": 61,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:39:33.066768",
+                "watch_percentage": 56,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.553974390642135,
+            "Action Crime Drama Thriller": 0.683799661923425,
+            "Action Thriller": 1.8105932854991242,
+            "Action Adventure Sci-Fi Thriller": 0.5685908940000001,
+            "Drama Fantasy Romance": 1.0839128609882138,
+            "Drama Romance War Western": 0.31112842700000004,
+            "Crime Drama Thriller": 0.76497867883709,
+            "Action Crime Thriller": 1.6718421270003205,
+            "Action Sci-Fi": 3.049121656684036
+        }
+    },
+    {
+        "session": 57,
+        "initial_movie": "Fight Club",
+        "picked_movies": [
+            {
+                "picked_movie": "the curious case of benjamin button",
+                "genre": "Drama Fantasy Romance",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:34.082712",
+                "watch_percentage": 83,
+                "position": 1
+            },
+            {
+                "picked_movie": "legends of the fall",
+                "genre": "Drama Romance War Western",
+                "rating": "2",
+                "timestamp": "2024-07-10 22:39:34.088827",
+                "watch_percentage": 12,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.6677294733518184,
+            "Action Crime Drama Thriller": 0.7833914764675611,
+            "Action Thriller": 1.8105932854991242,
+            "Action Adventure Sci-Fi Thriller": 0.5685908940000001,
+            "Drama Fantasy Romance": 1.0839128609882138,
+            "Drama Romance War Western": 0.31112842700000004,
+            "Crime Drama Thriller": 0.76497867883709,
+            "Action Crime Thriller": 1.6718421270003205,
+            "Action Sci-Fi": 3.049121656684036
+        }
+    },
+    {
+        "session": 58,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:39:35.110174",
+                "watch_percentage": 87,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:35.120323",
+                "watch_percentage": 87,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:35.129417",
+                "watch_percentage": 100,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.6677294733518184,
+            "Action Crime Drama Thriller": 0.7833914764675611,
+            "Action Thriller": 1.8105932854991242,
+            "Action Adventure Sci-Fi Thriller": 0.5685908940000001,
+            "Drama Fantasy Romance": 1.2689730641778523,
+            "Drama Romance War Western": 0.3425665540000001,
+            "Crime Drama Thriller": 0.76497867883709,
+            "Action Crime Thriller": 1.6718421270003205,
+            "Action Sci-Fi": 3.049121656684036
+        }
+    },
+    {
+        "session": 59,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:39:36.152449",
+                "watch_percentage": 96,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:36.163408",
+                "watch_percentage": 96,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:36.174913",
+                "watch_percentage": 91,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.6677294733518184,
+            "Action Crime Drama Thriller": 0.7833914764675611,
+            "Action Thriller": 1.8105932854991242,
+            "Action Adventure Sci-Fi Thriller": 0.5685908940000001,
+            "Drama Fantasy Romance": 1.2689730641778523,
+            "Drama Romance War Western": 0.3425665540000001,
+            "Crime Drama Thriller": 0.848864560148719,
+            "Action Crime Thriller": 1.846468810577115,
+            "Action Sci-Fi": 3.049121656684036
+        }
+    },
+    {
+        "session": 60,
+        "initial_movie": "Fight Club",
+        "picked_movies": [
+            {
+                "picked_movie": "the curious case of benjamin button",
+                "genre": "Drama Fantasy Romance",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:37.197746",
+                "watch_percentage": 88,
+                "position": 1
+            },
+            {
+                "picked_movie": "legends of the fall",
+                "genre": "Drama Romance War Western",
+                "rating": "2",
+                "timestamp": "2024-07-10 22:39:37.209463",
+                "watch_percentage": 43,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.6677294733518184,
+            "Action Crime Drama Thriller": 0.7833914764675611,
+            "Action Thriller": 1.8105932854991242,
+            "Action Adventure Sci-Fi Thriller": 0.5685908940000001,
+            "Drama Fantasy Romance": 1.2689730641778523,
+            "Drama Romance War Western": 0.3425665540000001,
+            "Crime Drama Thriller": 0.931911582647232,
+            "Action Crime Thriller": 2.0176204231507313,
+            "Action Sci-Fi": 3.049121656684036
+        }
+    },
+    {
+        "session": 61,
+        "initial_movie": "Fight Club",
+        "picked_movies": [
+            {
+                "picked_movie": "the curious case of benjamin button",
+                "genre": "Drama Fantasy Romance",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:38.242077",
+                "watch_percentage": 84,
+                "position": 1
+            },
+            {
+                "picked_movie": "legends of the fall",
+                "genre": "Drama Romance War Western",
+                "rating": "2",
+                "timestamp": "2024-07-10 22:39:38.261385",
+                "watch_percentage": 23,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.6677294733518184,
+            "Action Crime Drama Thriller": 0.7833914764675611,
+            "Action Thriller": 1.8105932854991242,
+            "Action Adventure Sci-Fi Thriller": 0.5685908940000001,
+            "Drama Fantasy Romance": 1.450350569324017,
+            "Drama Romance War Western": 0.37086086830000004,
+            "Crime Drama Thriller": 0.931911582647232,
+            "Action Crime Thriller": 2.0176204231507313,
+            "Action Sci-Fi": 3.049121656684036
+        }
+    },
+    {
+        "session": 62,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:39:39.295264",
+                "watch_percentage": 92,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:39.304627",
+                "watch_percentage": 84,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:39.314127",
+                "watch_percentage": 92,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.6677294733518184,
+            "Action Crime Drama Thriller": 0.7833914764675611,
+            "Action Thriller": 1.8105932854991242,
+            "Action Adventure Sci-Fi Thriller": 0.5685908940000001,
+            "Drama Fantasy Romance": 1.6281186621177732,
+            "Drama Romance War Western": 0.39632575117,
+            "Crime Drama Thriller": 0.931911582647232,
+            "Action Crime Thriller": 2.0176204231507313,
+            "Action Sci-Fi": 3.049121656684036
+        }
+    },
+    {
+        "session": 63,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:39:40.337069",
+                "watch_percentage": 54,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "5",
+                "timestamp": "2024-07-10 22:39:40.347130",
+                "watch_percentage": 59,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.6677294733518184,
+            "Action Crime Drama Thriller": 0.7833914764675611,
+            "Action Thriller": 1.8105932854991242,
+            "Action Adventure Sci-Fi Thriller": 0.5685908940000001,
+            "Drama Fantasy Romance": 1.6281186621177732,
+            "Drama Romance War Western": 0.39632575117,
+            "Crime Drama Thriller": 1.0141281349207598,
+            "Action Crime Thriller": 2.185366118634133,
+            "Action Sci-Fi": 3.049121656684036
+        }
+    },
+    {
+        "session": 64,
+        "initial_movie": "Inception",
+        "picked_movies": [
+            {
+                "picked_movie": "the dark knight rises",
+                "genre": "Action Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:41.365152",
+                "watch_percentage": 96,
+                "position": 1
+            },
+            {
+                "picked_movie": "inception",
+                "genre": "Action Adventure Sci-Fi Thriller",
+                "rating": "4",
+                "timestamp": "2024-07-10 22:39:41.371200",
+                "watch_percentage": 43,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.7792208299155792,
+            "Action Crime Drama Thriller": 0.8301034970737682,
+            "Action Thriller": 1.8105932854991242,
+            "Action Adventure Sci-Fi Thriller": 0.5685908940000001,
+            "Drama Fantasy Romance": 1.6281186621177732,
+            "Drama Romance War Western": 0.39632575117,
+            "Crime Drama Thriller": 1.0141281349207598,
+            "Action Crime Thriller": 2.185366118634133,
+            "Action Sci-Fi": 3.049121656684036
+        }
+    },
+    {
+        "session": 65,
+        "initial_movie": "The Matrix",
+        "picked_movies": [
+            {
+                "picked_movie": "the matrix revolutions",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:42.387935",
+                "watch_percentage": 83,
+                "position": 1
+            },
+            {
+                "picked_movie": "the matrix reloaded",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:42.399185",
+                "watch_percentage": 92,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.7792208299155792,
+            "Action Crime Drama Thriller": 0.8301034970737682,
+            "Action Thriller": 1.9766615240276917,
+            "Action Adventure Sci-Fi Thriller": 0.6312581226,
+            "Drama Fantasy Romance": 1.6281186621177732,
+            "Drama Romance War Western": 0.39632575117,
+            "Crime Drama Thriller": 1.0141281349207598,
+            "Action Crime Thriller": 2.185366118634133,
+            "Action Sci-Fi": 3.049121656684036
+        }
+    },
+    {
+        "session": 66,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:39:43.426913",
+                "watch_percentage": 74,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "5",
+                "timestamp": "2024-07-10 22:39:43.439663",
+                "watch_percentage": 80,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.7792208299155792,
+            "Action Crime Drama Thriller": 0.8301034970737682,
+            "Action Thriller": 1.9766615240276917,
+            "Action Adventure Sci-Fi Thriller": 0.6312581226,
+            "Drama Fantasy Romance": 1.6281186621177732,
+            "Drama Romance War Western": 0.39632575117,
+            "Crime Drama Thriller": 1.0141281349207598,
+            "Action Crime Thriller": 2.185366118634133,
+            "Action Sci-Fi": 3.2710392404214637
+        }
+    },
+    {
+        "session": 67,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:39:44.467620",
+                "watch_percentage": 73,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "6",
+                "timestamp": "2024-07-10 22:39:44.476703",
+                "watch_percentage": 62,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.8884935084837209,
+            "Action Crime Drama Thriller": 0.8763483974739131,
+            "Action Thriller": 1.9766615240276917,
+            "Action Adventure Sci-Fi Thriller": 0.6312581226,
+            "Drama Fantasy Romance": 1.6281186621177732,
+            "Drama Romance War Western": 0.39632575117,
+            "Crime Drama Thriller": 1.0141281349207598,
+            "Action Crime Thriller": 2.185366118634133,
+            "Action Sci-Fi": 3.2710392404214637
+        }
+    },
+    {
+        "session": 68,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:39:45.499250",
+                "watch_percentage": 83,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:45.510779",
+                "watch_percentage": 89,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:45.524499",
+                "watch_percentage": 82,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.995591660748357,
+            "Action Crime Drama Thriller": 0.974306334908621,
+            "Action Thriller": 1.9766615240276917,
+            "Action Adventure Sci-Fi Thriller": 0.6312581226,
+            "Drama Fantasy Romance": 1.6281186621177732,
+            "Drama Romance War Western": 0.39632575117,
+            "Crime Drama Thriller": 1.0141281349207598,
+            "Action Crime Thriller": 2.185366118634133,
+            "Action Sci-Fi": 3.2710392404214637
+        }
+    },
+    {
+        "session": 69,
+        "initial_movie": "Inception",
+        "picked_movies": [
+            {
+                "picked_movie": "the dark knight rises",
+                "genre": "Action Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:46.560730",
+                "watch_percentage": 81,
+                "position": 1
+            },
+            {
+                "picked_movie": "inception",
+                "genre": "Action Adventure Sci-Fi Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:46.580126",
+                "watch_percentage": 94,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.995591660748357,
+            "Action Crime Drama Thriller": 0.974306334908621,
+            "Action Thriller": 1.9766615240276917,
+            "Action Adventure Sci-Fi Thriller": 0.6312581226,
+            "Drama Fantasy Romance": 1.6281186621177732,
+            "Drama Romance War Western": 0.39632575117,
+            "Crime Drama Thriller": 1.095522521671552,
+            "Action Crime Thriller": 2.3497736747774147,
+            "Action Sci-Fi": 3.2710392404214637
+        }
+    },
+    {
+        "session": 70,
+        "initial_movie": "The Matrix",
+        "picked_movies": [
+            {
+                "picked_movie": "the matrix revolutions",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:47.611797",
+                "watch_percentage": 92,
+                "position": 1
+            },
+            {
+                "picked_movie": "the matrix reloaded",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:47.621698",
+                "watch_percentage": 94,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.995591660748357,
+            "Action Crime Drama Thriller": 0.974306334908621,
+            "Action Thriller": 2.1394250046095404,
+            "Action Adventure Sci-Fi Thriller": 0.7282350972000001,
+            "Drama Fantasy Romance": 1.6281186621177732,
+            "Drama Romance War Western": 0.39632575117,
+            "Crime Drama Thriller": 1.095522521671552,
+            "Action Crime Thriller": 2.3497736747774147,
+            "Action Sci-Fi": 3.2710392404214637
+        }
+    },
+    {
+        "session": 71,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:39:48.647070",
+                "watch_percentage": 89,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:48.659635",
+                "watch_percentage": 89,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:48.669809",
+                "watch_percentage": 98,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.995591660748357,
+            "Action Crime Drama Thriller": 0.974306334908621,
+            "Action Thriller": 2.1394250046095404,
+            "Action Adventure Sci-Fi Thriller": 0.7282350972000001,
+            "Drama Fantasy Romance": 1.6281186621177732,
+            "Drama Romance War Western": 0.39632575117,
+            "Crime Drama Thriller": 1.095522521671552,
+            "Action Crime Thriller": 2.3497736747774147,
+            "Action Sci-Fi": 3.4863656500043056
+        }
+    },
+    {
+        "session": 72,
+        "initial_movie": "The Matrix",
+        "picked_movies": [
+            {
+                "picked_movie": "the matrix revolutions",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:49.692218",
+                "watch_percentage": 88,
+                "position": 1
+            },
+            {
+                "picked_movie": "the matrix reloaded",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:49.705658",
+                "watch_percentage": 97,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.995591660748357,
+            "Action Crime Drama Thriller": 0.974306334908621,
+            "Action Thriller": 2.1394250046095404,
+            "Action Adventure Sci-Fi Thriller": 0.7282350972000001,
+            "Drama Fantasy Romance": 1.6281186621177732,
+            "Drama Romance War Western": 0.39632575117,
+            "Crime Drama Thriller": 1.1761029645548366,
+            "Action Crime Thriller": 2.510909520553445,
+            "Action Sci-Fi": 3.4863656500043056
+        }
+    },
+    {
+        "session": 73,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:39:50.740870",
+                "watch_percentage": 69,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "5",
+                "timestamp": "2024-07-10 22:39:50.749804",
+                "watch_percentage": 54,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 1.995591660748357,
+            "Action Crime Drama Thriller": 0.974306334908621,
+            "Action Thriller": 2.1394250046095404,
+            "Action Adventure Sci-Fi Thriller": 0.7282350972000001,
+            "Drama Fantasy Romance": 1.6281186621177732,
+            "Drama Romance War Western": 0.39632575117,
+            "Crime Drama Thriller": 1.1761029645548366,
+            "Action Crime Thriller": 2.510909520553445,
+            "Action Sci-Fi": 3.695296649896128
+        }
+    },
+    {
+        "session": 74,
+        "initial_movie": "The Matrix",
+        "picked_movies": [
+            {
+                "picked_movie": "the matrix revolutions",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:51.773731",
+                "watch_percentage": 85,
+                "position": 1
+            },
+            {
+                "picked_movie": "the matrix reloaded",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:51.783100",
+                "watch_percentage": 81,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.1005585597829266,
+            "Action Crime Drama Thriller": 1.0200887863047643,
+            "Action Thriller": 2.1394250046095404,
+            "Action Adventure Sci-Fi Thriller": 0.7282350972000001,
+            "Drama Fantasy Romance": 1.6281186621177732,
+            "Drama Romance War Western": 0.39632575117,
+            "Crime Drama Thriller": 1.1761029645548366,
+            "Action Crime Thriller": 2.510909520553445,
+            "Action Sci-Fi": 3.695296649896128
+        }
+    },
+    {
+        "session": 75,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:39:52.802621",
+                "watch_percentage": 86,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:52.811471",
+                "watch_percentage": 94,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:52.820386",
+                "watch_percentage": 85,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.1005585597829266,
+            "Action Crime Drama Thriller": 1.0200887863047643,
+            "Action Thriller": 2.1394250046095404,
+            "Action Adventure Sci-Fi Thriller": 0.7282350972000001,
+            "Drama Fantasy Romance": 1.6281186621177732,
+            "Drama Romance War Western": 0.39632575117,
+            "Crime Drama Thriller": 1.1761029645548366,
+            "Action Crime Thriller": 2.510909520553445,
+            "Action Sci-Fi": 3.8980221901601637
+        }
+    },
+    {
+        "session": 76,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:39:53.844043",
+                "watch_percentage": 82,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:53.854295",
+                "watch_percentage": 88,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:53.866868",
+                "watch_percentage": 96,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.1005585597829266,
+            "Action Crime Drama Thriller": 1.0200887863047643,
+            "Action Thriller": 2.1394250046095404,
+            "Action Adventure Sci-Fi Thriller": 0.7282350972000001,
+            "Drama Fantasy Romance": 1.6281186621177732,
+            "Drama Romance War Western": 0.39632575117,
+            "Crime Drama Thriller": 1.2558776030092882,
+            "Action Crime Thriller": 2.668838762998533,
+            "Action Sci-Fi": 3.8980221901601637
+        }
+    },
+    {
+        "session": 77,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:39:54.894455",
+                "watch_percentage": 100,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:54.904124",
+                "watch_percentage": 90,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:54.914994",
+                "watch_percentage": 99,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.1005585597829266,
+            "Action Crime Drama Thriller": 1.0200887863047643,
+            "Action Thriller": 2.1394250046095404,
+            "Action Adventure Sci-Fi Thriller": 0.7282350972000001,
+            "Drama Fantasy Romance": 1.6281186621177732,
+            "Drama Romance War Western": 0.39632575117,
+            "Crime Drama Thriller": 1.3348544950791952,
+            "Action Crime Thriller": 2.8236252135189632,
+            "Action Sci-Fi": 3.8980221901601637
+        }
+    },
+    {
+        "session": 78,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:39:55.938195",
+                "watch_percentage": 64,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:39:55.948466",
+                "watch_percentage": 90,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.1005585597829266,
+            "Action Crime Drama Thriller": 1.0200887863047643,
+            "Action Thriller": 2.1394250046095404,
+            "Action Adventure Sci-Fi Thriller": 0.7282350972000001,
+            "Drama Fantasy Romance": 1.6281186621177732,
+            "Drama Romance War Western": 0.39632575117,
+            "Crime Drama Thriller": 1.4130416182284034,
+            "Action Crime Thriller": 2.9753314136740365,
+            "Action Sci-Fi": 3.8980221901601637
+        }
+    },
+    {
+        "session": 79,
+        "initial_movie": "Fight Club",
+        "picked_movies": [
+            {
+                "picked_movie": "the curious case of benjamin button",
+                "genre": "Drama Fantasy Romance",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:56.974153",
+                "watch_percentage": 93,
+                "position": 1
+            },
+            {
+                "picked_movie": "legends of the fall",
+                "genre": "Drama Romance War Western",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:56.986365",
+                "watch_percentage": 93,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.2034366175267084,
+            "Action Crime Drama Thriller": 1.125254569465125,
+            "Action Thriller": 2.1394250046095404,
+            "Action Adventure Sci-Fi Thriller": 0.7282350972000001,
+            "Drama Fantasy Romance": 1.6281186621177732,
+            "Drama Romance War Western": 0.39632575117,
+            "Crime Drama Thriller": 1.4130416182284034,
+            "Action Crime Thriller": 2.9753314136740365,
+            "Action Sci-Fi": 3.8980221901601637
+        }
+    },
+    {
+        "session": 80,
+        "initial_movie": "Fight Club",
+        "picked_movies": [
+            {
+                "picked_movie": "the curious case of benjamin button",
+                "genre": "Drama Fantasy Romance",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:58.011312",
+                "watch_percentage": 96,
+                "position": 1
+            },
+            {
+                "picked_movie": "legends of the fall",
+                "genre": "Drama Romance War Western",
+                "rating": "1",
+                "timestamp": "2024-07-10 22:39:58.022124",
+                "watch_percentage": 40,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.2034366175267084,
+            "Action Crime Drama Thriller": 1.125254569465125,
+            "Action Thriller": 2.1394250046095404,
+            "Action Adventure Sci-Fi Thriller": 0.7282350972000001,
+            "Drama Fantasy Romance": 1.8023491698649337,
+            "Drama Romance War Western": 0.50776387817,
+            "Crime Drama Thriller": 1.4130416182284034,
+            "Action Crime Thriller": 2.9753314136740365,
+            "Action Sci-Fi": 3.8980221901601637
+        }
+    },
+    {
+        "session": 81,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:39:59.043266",
+                "watch_percentage": 85,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:59.052248",
+                "watch_percentage": 98,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:39:59.060985",
+                "watch_percentage": 87,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.2034366175267084,
+            "Action Crime Drama Thriller": 1.125254569465125,
+            "Action Thriller": 2.1394250046095404,
+            "Action Adventure Sci-Fi Thriller": 0.7282350972000001,
+            "Drama Fantasy Romance": 1.9731124905079256,
+            "Drama Romance War Western": 0.52757200517,
+            "Crime Drama Thriller": 1.4130416182284034,
+            "Action Crime Thriller": 2.9753314136740365,
+            "Action Sci-Fi": 3.8980221901601637
+        }
+    },
+    {
+        "session": 82,
+        "initial_movie": "The Matrix",
+        "picked_movies": [],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.2034366175267084,
+            "Action Crime Drama Thriller": 1.125254569465125,
+            "Action Thriller": 2.1394250046095404,
+            "Action Adventure Sci-Fi Thriller": 0.7282350972000001,
+            "Drama Fantasy Romance": 1.9731124905079256,
+            "Drama Romance War Western": 0.52757200517,
+            "Crime Drama Thriller": 1.4904468701461193,
+            "Action Crime Thriller": 3.124018660446024,
+            "Action Sci-Fi": 3.8980221901601637
+        }
+    },
+    {
+        "session": 83,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:40:01.099768",
+                "watch_percentage": 83,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:01.113164",
+                "watch_percentage": 85,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:01.123287",
+                "watch_percentage": 92,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.2034366175267084,
+            "Action Crime Drama Thriller": 1.125254569465125,
+            "Action Thriller": 2.1394250046095404,
+            "Action Adventure Sci-Fi Thriller": 0.7282350972000001,
+            "Drama Fantasy Romance": 1.9731124905079256,
+            "Drama Romance War Western": 0.52757200517,
+            "Crime Drama Thriller": 1.4904468701461193,
+            "Action Crime Thriller": 3.124018660446024,
+            "Action Sci-Fi": 3.8980221901601637
+        }
+    },
+    {
+        "session": 84,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:40:02.149253",
+                "watch_percentage": 75,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "5",
+                "timestamp": "2024-07-10 22:40:02.161718",
+                "watch_percentage": 78,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.2034366175267084,
+            "Action Crime Drama Thriller": 1.125254569465125,
+            "Action Thriller": 2.1394250046095404,
+            "Action Adventure Sci-Fi Thriller": 0.7282350972000001,
+            "Drama Fantasy Romance": 1.9731124905079256,
+            "Drama Romance War Western": 0.52757200517,
+            "Crime Drama Thriller": 1.567078069544658,
+            "Action Crime Thriller": 3.269747031007249,
+            "Action Sci-Fi": 3.8980221901601637
+        }
+    },
+    {
+        "session": 85,
+        "initial_movie": "The Matrix",
+        "picked_movies": [
+            {
+                "picked_movie": "the matrix revolutions",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:03.187707",
+                "watch_percentage": 91,
+                "position": 1
+            },
+            {
+                "picked_movie": "the matrix reloaded",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:03.197552",
+                "watch_percentage": 86,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.304267401921389,
+            "Action Crime Drama Thriller": 1.1705791963473071,
+            "Action Thriller": 2.1394250046095404,
+            "Action Adventure Sci-Fi Thriller": 0.7282350972000001,
+            "Drama Fantasy Romance": 1.9731124905079256,
+            "Drama Romance War Western": 0.52757200517,
+            "Crime Drama Thriller": 1.567078069544658,
+            "Action Crime Thriller": 3.269747031007249,
+            "Action Sci-Fi": 3.8980221901601637
+        }
+    },
+    {
+        "session": 86,
+        "initial_movie": "Inception",
+        "picked_movies": [
+            {
+                "picked_movie": "the dark knight rises",
+                "genre": "Action Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:04.212431",
+                "watch_percentage": 91,
+                "position": 1
+            },
+            {
+                "picked_movie": "inception",
+                "genre": "Action Adventure Sci-Fi Thriller",
+                "rating": "2",
+                "timestamp": "2024-07-10 22:40:04.219339",
+                "watch_percentage": 31,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.304267401921389,
+            "Action Crime Drama Thriller": 1.1705791963473071,
+            "Action Thriller": 2.1394250046095404,
+            "Action Adventure Sci-Fi Thriller": 0.7282350972000001,
+            "Drama Fantasy Romance": 1.9731124905079256,
+            "Drama Romance War Western": 0.52757200517,
+            "Crime Drama Thriller": 1.567078069544658,
+            "Action Crime Thriller": 3.269747031007249,
+            "Action Sci-Fi": 4.094726579152817
+        }
+    },
+    {
+        "session": 87,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:40:05.246517",
+                "watch_percentage": 80,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "5",
+                "timestamp": "2024-07-10 22:40:05.264121",
+                "watch_percentage": 77,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.304267401921389,
+            "Action Crime Drama Thriller": 1.1705791963473071,
+            "Action Thriller": 2.2989494919278104,
+            "Action Adventure Sci-Fi Thriller": 0.7740300181140001,
+            "Drama Fantasy Romance": 1.9731124905079256,
+            "Drama Romance War Western": 0.52757200517,
+            "Crime Drama Thriller": 1.567078069544658,
+            "Action Crime Thriller": 3.269747031007249,
+            "Action Sci-Fi": 4.094726579152817
+        }
+    },
+    {
+        "session": 88,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:40:06.307831",
+                "watch_percentage": 71,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "5",
+                "timestamp": "2024-07-10 22:40:06.326023",
+                "watch_percentage": 76,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.403091653706615,
+            "Action Crime Drama Thriller": 1.2154505769606676,
+            "Action Thriller": 2.2989494919278104,
+            "Action Adventure Sci-Fi Thriller": 0.7740300181140001,
+            "Drama Fantasy Romance": 1.9731124905079256,
+            "Drama Romance War Western": 0.52757200517,
+            "Crime Drama Thriller": 1.567078069544658,
+            "Action Crime Thriller": 3.269747031007249,
+            "Action Sci-Fi": 4.094726579152817
+        }
+    },
+    {
+        "session": 89,
+        "initial_movie": "Inception",
+        "picked_movies": [
+            {
+                "picked_movie": "the dark knight rises",
+                "genre": "Action Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:07.371281",
+                "watch_percentage": 89,
+                "position": 1
+            },
+            {
+                "picked_movie": "inception",
+                "genre": "Action Adventure Sci-Fi Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:07.395081",
+                "watch_percentage": 80,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.4999493028813156,
+            "Action Crime Drama Thriller": 1.2598732437678941,
+            "Action Thriller": 2.2989494919278104,
+            "Action Adventure Sci-Fi Thriller": 0.7740300181140001,
+            "Drama Fantasy Romance": 1.9731124905079256,
+            "Drama Romance War Western": 0.52757200517,
+            "Crime Drama Thriller": 1.567078069544658,
+            "Action Crime Thriller": 3.269747031007249,
+            "Action Sci-Fi": 4.094726579152817
+        }
+    },
+    {
+        "session": 90,
+        "initial_movie": "Inception",
+        "picked_movies": [
+            {
+                "picked_movie": "the dark knight rises",
+                "genre": "Action Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:08.435820",
+                "watch_percentage": 97,
+                "position": 1
+            },
+            {
+                "picked_movie": "inception",
+                "genre": "Action Adventure Sci-Fi Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:08.452148",
+                "watch_percentage": 96,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.4999493028813156,
+            "Action Crime Drama Thriller": 1.2598732437678941,
+            "Action Thriller": 2.4552994419484473,
+            "Action Adventure Sci-Fi Thriller": 0.8700372229680001,
+            "Drama Fantasy Romance": 1.9731124905079256,
+            "Drama Romance War Western": 0.52757200517,
+            "Crime Drama Thriller": 1.567078069544658,
+            "Action Crime Thriller": 3.269747031007249,
+            "Action Sci-Fi": 4.094726579152817
+        }
+    },
+    {
+        "session": 91,
+        "initial_movie": "The Matrix",
+        "picked_movies": [
+            {
+                "picked_movie": "the matrix revolutions",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:09.481542",
+                "watch_percentage": 93,
+                "position": 1
+            },
+            {
+                "picked_movie": "the matrix reloaded",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:09.503570",
+                "watch_percentage": 93,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.4999493028813156,
+            "Action Crime Drama Thriller": 1.2598732437678941,
+            "Action Thriller": 2.608538027963673,
+            "Action Adventure Sci-Fi Thriller": 0.96508435577346,
+            "Drama Fantasy Romance": 1.9731124905079256,
+            "Drama Romance War Western": 0.52757200517,
+            "Crime Drama Thriller": 1.567078069544658,
+            "Action Crime Thriller": 3.269747031007249,
+            "Action Sci-Fi": 4.094726579152817
+        }
+    },
+    {
+        "session": 92,
+        "initial_movie": "Inception",
+        "picked_movies": [
+            {
+                "picked_movie": "the dark knight rises",
+                "genre": "Action Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:10.547916",
+                "watch_percentage": 96,
+                "position": 1
+            },
+            {
+                "picked_movie": "inception",
+                "genre": "Action Adventure Sci-Fi Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:10.565812",
+                "watch_percentage": 82,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.4999493028813156,
+            "Action Crime Drama Thriller": 1.2598732437678941,
+            "Action Thriller": 2.608538027963673,
+            "Action Adventure Sci-Fi Thriller": 0.96508435577346,
+            "Drama Fantasy Romance": 1.9731124905079256,
+            "Drama Romance War Western": 0.52757200517,
+            "Crime Drama Thriller": 1.567078069544658,
+            "Action Crime Thriller": 3.269747031007249,
+            "Action Sci-Fi": 4.285588651087999
+        }
+    },
+    {
+        "session": 93,
+        "initial_movie": "The Matrix",
+        "picked_movies": [
+            {
+                "picked_movie": "the matrix revolutions",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:11.598577",
+                "watch_percentage": 85,
+                "position": 1
+            },
+            {
+                "picked_movie": "the matrix reloaded",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:11.608234",
+                "watch_percentage": 89,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.4999493028813156,
+            "Action Crime Drama Thriller": 1.2598732437678941,
+            "Action Thriller": 2.758727166117196,
+            "Action Adventure Sci-Fi Thriller": 1.0591810172508656,
+            "Drama Fantasy Romance": 1.9731124905079256,
+            "Drama Romance War Western": 0.52757200517,
+            "Crime Drama Thriller": 1.567078069544658,
+            "Action Crime Thriller": 3.269747031007249,
+            "Action Sci-Fi": 4.285588651087999
+        }
+    },
+    {
+        "session": 94,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:40:12.633260",
+                "watch_percentage": 97,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:12.643334",
+                "watch_percentage": 88,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:12.654812",
+                "watch_percentage": 95,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.4999493028813156,
+            "Action Crime Drama Thriller": 1.2598732437678941,
+            "Action Thriller": 2.758727166117196,
+            "Action Adventure Sci-Fi Thriller": 1.0591810172508656,
+            "Drama Fantasy Romance": 1.9731124905079256,
+            "Drama Romance War Western": 0.52757200517,
+            "Crime Drama Thriller": 1.567078069544658,
+            "Action Crime Thriller": 3.269747031007249,
+            "Action Sci-Fi": 4.470781928624635
+        }
+    },
+    {
+        "session": 95,
+        "initial_movie": "Pulp Fiction",
+        "picked_movies": [
+            {
+                "picked_movie": "reservoir dogs",
+                "genre": "Crime Drama Thriller",
+                "rating": "9",
+                "timestamp": "2024-07-10 22:40:13.687365",
+                "watch_percentage": 92,
+                "position": 1
+            },
+            {
+                "picked_movie": "desperado",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:13.708951",
+                "watch_percentage": 89,
+                "position": 1
+            },
+            {
+                "picked_movie": "once upon a time in mexico",
+                "genre": "Action Crime Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:13.730433",
+                "watch_percentage": 81,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.4999493028813156,
+            "Action Crime Drama Thriller": 1.2598732437678941,
+            "Action Thriller": 2.758727166117196,
+            "Action Adventure Sci-Fi Thriller": 1.0591810172508656,
+            "Drama Fantasy Romance": 1.9731124905079256,
+            "Drama Romance War Western": 0.52757200517,
+            "Crime Drama Thriller": 1.6429429569492116,
+            "Action Crime Thriller": 3.4125754069943057,
+            "Action Sci-Fi": 4.470781928624635
+        }
+    },
+    {
+        "session": 96,
+        "initial_movie": "Fight Club",
+        "picked_movies": [
+            {
+                "picked_movie": "the curious case of benjamin button",
+                "genre": "Drama Fantasy Romance",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:14.771318",
+                "watch_percentage": 81,
+                "position": 1
+            },
+            {
+                "picked_movie": "legends of the fall",
+                "genre": "Drama Romance War Western",
+                "rating": "4",
+                "timestamp": "2024-07-10 22:40:14.791650",
+                "watch_percentage": 22,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.4999493028813156,
+            "Action Crime Drama Thriller": 1.2598732437678941,
+            "Action Thriller": 2.758727166117196,
+            "Action Adventure Sci-Fi Thriller": 1.0591810172508656,
+            "Drama Fantasy Romance": 1.9731124905079256,
+            "Drama Romance War Western": 0.52757200517,
+            "Crime Drama Thriller": 1.718049195479719,
+            "Action Crime Thriller": 3.5525614982992204,
+            "Action Sci-Fi": 4.470781928624635
+        }
+    },
+    {
+        "session": 97,
+        "initial_movie": "Inception",
+        "picked_movies": [
+            {
+                "picked_movie": "the dark knight rises",
+                "genre": "Action Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:15.832474",
+                "watch_percentage": 83,
+                "position": 1
+            },
+            {
+                "picked_movie": "inception",
+                "genre": "Action Adventure Sci-Fi Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:15.852733",
+                "watch_percentage": 81,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.4999493028813156,
+            "Action Crime Drama Thriller": 1.2598732437678941,
+            "Action Thriller": 2.758727166117196,
+            "Action Adventure Sci-Fi Thriller": 1.0591810172508656,
+            "Drama Fantasy Romance": 2.1404776210701213,
+            "Drama Romance War Western": 0.56630110217,
+            "Crime Drama Thriller": 1.718049195479719,
+            "Action Crime Thriller": 3.5525614982992204,
+            "Action Sci-Fi": 4.470781928624635
+        }
+    },
+    {
+        "session": 98,
+        "initial_movie": "The Dark Knight",
+        "picked_movies": [
+            {
+                "picked_movie": "batman begins",
+                "genre": "Action Adventure",
+                "rating": "7",
+                "timestamp": "2024-07-10 22:40:16.892343",
+                "watch_percentage": 57,
+                "position": 1
+            },
+            {
+                "picked_movie": "the dark knight",
+                "genre": "Action Crime Drama Thriller",
+                "rating": "5",
+                "timestamp": "2024-07-10 22:40:16.902983",
+                "watch_percentage": 79,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.4999493028813156,
+            "Action Crime Drama Thriller": 1.2598732437678941,
+            "Action Thriller": 2.9059275404214633,
+            "Action Adventure Sci-Fi Thriller": 1.1523367121134969,
+            "Drama Fantasy Romance": 2.1404776210701213,
+            "Drama Romance War Western": 0.56630110217,
+            "Crime Drama Thriller": 1.718049195479719,
+            "Action Crime Thriller": 3.5525614982992204,
+            "Action Sci-Fi": 4.470781928624635
+        }
+    },
+    {
+        "session": 99,
+        "initial_movie": "Inception",
+        "picked_movies": [
+            {
+                "picked_movie": "the dark knight rises",
+                "genre": "Action Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:17.930154",
+                "watch_percentage": 90,
+                "position": 1
+            },
+            {
+                "picked_movie": "inception",
+                "genre": "Action Adventure Sci-Fi Thriller",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:17.941894",
+                "watch_percentage": 97,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.5948794848374392,
+            "Action Crime Drama Thriller": 1.3038516839070486,
+            "Action Thriller": 2.9059275404214633,
+            "Action Adventure Sci-Fi Thriller": 1.1523367121134969,
+            "Drama Fantasy Romance": 2.1404776210701213,
+            "Drama Romance War Western": 0.56630110217,
+            "Crime Drama Thriller": 1.718049195479719,
+            "Action Crime Thriller": 3.5525614982992204,
+            "Action Sci-Fi": 4.470781928624635
+        }
+    },
+    {
+        "session": 100,
+        "initial_movie": "The Matrix",
+        "picked_movies": [
+            {
+                "picked_movie": "the matrix revolutions",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:18.963820",
+                "watch_percentage": 89,
+                "position": 1
+            },
+            {
+                "picked_movie": "the matrix reloaded",
+                "genre": "Action Sci-Fi",
+                "rating": "10",
+                "timestamp": "2024-07-10 22:40:18.975924",
+                "watch_percentage": 97,
+                "position": 1
+            }
+        ],
+        "preferences": {
+            "Action": 0,
+            "Comedy": 0,
+            "Drama": 0,
+            "Horror": 0,
+            "Action Adventure": 2.5948794848374392,
+            "Action Crime Drama Thriller": 1.3038516839070486,
+            "Action Thriller": 3.050198627277076,
+            "Action Adventure Sci-Fi Thriller": 1.2445608500275018,
+            "Drama Fantasy Romance": 2.1404776210701213,
+            "Drama Romance War Western": 0.56630110217,
+            "Crime Drama Thriller": 1.718049195479719,
+            "Action Crime Thriller": 3.5525614982992204,
+            "Action Sci-Fi": 4.470781928624635
+        }
+    }
+]
