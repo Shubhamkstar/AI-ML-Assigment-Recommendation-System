@@ -113,6 +113,3 @@ This project demonstrates a novel approach to creating a self-adaptive movie rec
 ## License
 
 This project is licensed under the MIT License.
-```
-
-Just copy and paste this entire block into your README file on GitHub.
